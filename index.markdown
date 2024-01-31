@@ -23,4 +23,4 @@ We are aiming to develop on open-science standard for the anatomical and functio
 ## Funding
 The project is funded by the [Raynor Cerebellar Project](https://raynorcerebellumproject.org/), a non-profit organization that aims to improve our understanding of the cerebellum and its role in health and disease.
 
-![RCP](/assets/rcp_logo.webp)
+![RCP](/assets/rcp_logo.webp){: width="200"}
