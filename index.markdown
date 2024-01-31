@@ -1,11 +1,11 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: About
 layout: page
 ---
 
-## The Project
+# About the project
 The aim of this project is to develop and improve normative models of cerebellar development and ageing.
 While often ignored in neuroimaging studies, the cerebellum plays an important role in cognitive and motor development. Deficits in cortico-cerebellar communication have been implicated in a range of developmental and neuropsychiatric conditions, including autism, ADHD, and schizophrenia.
 
