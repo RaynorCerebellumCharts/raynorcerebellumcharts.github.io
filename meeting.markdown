@@ -16,6 +16,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 #### Monday: 
 
+**Topic** >>> **Speaker(s)**
 **Introduction to the workshop / prject** (10min) 
 
 Joern Diedrichsen, Ryan Muetzel & Andre Marquand
