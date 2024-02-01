@@ -16,10 +16,10 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 **Monday**: 
 
-Introduction to the workshop / prject (10min) 
-Joern, Ryan & Andrew
+Introduction to the workshop / prject (10min)
+Joern Diedrichsen, Ryan Muetzel & Andre Marquand
 
-RCP Board: Introduction to the Raynor Cerebellum Project (30min)
+Raynor Cerebellar Project Board: Introduction to the Raynor Cerebellum Project (30min)
 Adam Hantman, Roy Sillytoe, Steven Lisberger
 
 Voxel-wise growth curve modelling of the cerebellum (45min + Discussion): 
