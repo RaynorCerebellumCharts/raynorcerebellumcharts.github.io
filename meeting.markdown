@@ -14,7 +14,7 @@ We are excited to announce the kick-off meeting of the Cerebellum Brain Charts f
 The first two days will be dedicated to talks from collaborators and invited speakers, who will highlight the key challenges and opportunities in the field, mainly from a clinical perspective. The workshop will be highly interactive, providing ample of opportunities for discussion possible collaborative project.
 
 
-#### Monday: 
+#### Monday (April 22, 2023): 
 
 **Introduction to the workshop / prject** (10min) 
 
