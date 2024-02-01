@@ -34,6 +34,8 @@ ENIMGA: Jessica Faber.... (Joern Invite)
 
 Dagmar Timann (Joern Inivite) 
 
+8pm 
+Workshop Dinner with all invited speakers
 
 **Tuesday**:
 
@@ -46,8 +48,11 @@ Sophie Valk, + 2 students (45 min + discussion):
 
 Open discussion on collaborative projects 
 
+
+
 Tuesday evening session : 
-Online with: Steve Miller & Jessie Guo  
+6pm-8pm: Steve Miller & Jessie Guo  
+
 
 **Internal speakers to be sprinkled in:** 
 Caroline Nettekoven (20min)
