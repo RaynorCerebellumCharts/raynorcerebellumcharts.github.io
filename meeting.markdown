@@ -98,7 +98,7 @@ Please let us know ASAP your exact travel plans (email Mascha)
 [**Rotterdam / The Hague Airport**](https://www.rotterdamthehagueairport.nl/parkeren/?gclid=CjwKCAiAq4KuBhA6EiwArMAw1NErmZv2rgImTr3OkDzulnqIjLc2JmIDeAf4cbkKjtW0qmjcmj20vxoCjdYQAvD_BwE)
 
 
-**Eindhoven Aiport**
+[**Eindhoven Aiport**](https://www.eindhovenairport.nl/en)
 
 
 **The Erasmus Medical Center**
