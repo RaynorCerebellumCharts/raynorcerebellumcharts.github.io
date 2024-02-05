@@ -47,12 +47,13 @@ The first two days will be dedicated to talks from collaborators and invited spe
 #### Workshop Dinner (limit to invited speakers?)
 
 #### Tuesday (April 23, 2023):
+#### Part III: Neonatal, childhood and aadolescent cerebellar imaging
 
-TBD: (Ryan)
-Neonatal imaging 
-Neonatal cerebellar developement
+**Neonatal imaging TALK PLACEHOLDER**
 
-Clincial perspectives on adolensence cerebellar developement: 
+&nbsp;&nbsp;&nbsp;&nbsp; (ryan invites)
+
+**Clincial perspectives on adolensence cerebellar developement**
 Sophie Valk, + 2 students (45 min + discussion):  
 
 Open discussion on collaborative projects 
