@@ -17,9 +17,9 @@ The first two days will be dedicated to talks from collaborators and invited spe
 #### Monday (April 22, 2023):
 #### Part I: Introduction & Aim
 
-&nbsp; **Introduction to the workshop / prject** (10min) 
+**Introduction to the workshop / prject** (10min) 
 
-&nbsp; [Joern Diedrichsen](https://diedrichsenlab.org), [Ryan Muetzel](https://ipni.nl/people/) & [Andre Marquand](https://www.ru.nl/en/people/marquand-a)
+&nbsp&nbsp; [Joern Diedrichsen](https://diedrichsenlab.org), [Ryan Muetzel](https://ipni.nl/people/) & [Andre Marquand](https://www.ru.nl/en/people/marquand-a)
 
 **Raynor Cerebellar Project Board: Introduction to the Raynor Cerebellum Project** (30min)
 
