@@ -15,7 +15,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 
 #### Monday (April 22, 2023):
-#### &nbsp; Part I: Introduction & Aim
+#### Part I: Introduction & Aim
 
 **Introduction to the workshop / prject** (10min) 
 
@@ -23,15 +23,15 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 **Raynor Cerebellar Project Board: Introduction to the Raynor Cerebellum Project** (30min)
 
-Adam Hantman, Roy Sillytoe, Steven Lisberger
+&nbsp; Adam Hantman, Roy Sillytoe, Steven Lisberger
 
 **Voxel-wise growth curve modelling of the cerebellum** (45min + Discussion): 
 
-[Torgeir Moberget](https://ous-research.no/home/brain-plasticity/Group+members/17879)
+&nbsp; [Torgeir Moberget](https://ous-research.no/home/brain-plasticity/Group+members/17879)
 
-Clinical perspective in adult cerebellar disorders 
+#### Part II: Clinical Perspectives in Adult Cerebellar Disorders 
 
-Bart van der Warrenburg: 
+&nbsp; Bart van der Warrenburg: 
 
 ENIMGA: Jessica Faber.... (Joern Invite)
 
