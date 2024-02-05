@@ -15,7 +15,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 
 ### Monday (April 22, 2023):
-#### Part I: Introduction & Aim
+#### Part I: Introduction & Aim (morning program)
 
 **Introduction to the workshop / prject** (10min) 
 
@@ -29,7 +29,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Torgeir Moberget](https://ous-research.no/home/brain-plasticity/Group+members/17879)
 
-#### Part II: Clinical Perspectives in Adult Cerebellar Disorders 
+#### Part II: Clinical Perspectives in Adult Cerebellar Disorders (afternoon program)
 
 **Opportunities for high-dimensional normative models of the cerebellum in adult cerebellar disorders**
 
