@@ -26,8 +26,7 @@ Adam Hantman, Roy Sillytoe, Steven Lisberger
 
 **Voxel-wise growth curve modelling of the cerebellum** (45min + Discussion): 
 
-  Tor Morberget
-
+[Torgeir Moberget](https://ous-research.no/home/brain-plasticity/Group+members/17879)
 
 Clinical perspective in adult cerebellar disorders 
 
