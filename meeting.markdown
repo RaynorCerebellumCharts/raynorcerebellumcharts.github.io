@@ -26,7 +26,7 @@ Adam Hantman, Roy Sillytoe, Steven Lisberger
 
 **Voxel-wise growth curve modelling of the cerebellum** (45min + Discussion): 
 
-Tor Morberget
+  Tor Morberget
 
 
 Clinical perspective in adult cerebellar disorders 
