@@ -51,17 +51,20 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 **Neonatal imaging TALK PLACEHOLDER**
 
-&nbsp;&nbsp;&nbsp;&nbsp; (ryan invites)
+&nbsp;&nbsp;&nbsp;&nbsp; TBD (ryan invites)
 
 **Clincial perspectives on adolensence cerebellar developement**
-Sophie Valk, + 2 students (45 min + discussion):  
 
-Open discussion on collaborative projects 
+&nbsp;&nbsp;&nbsp;&nbsp;  TBD: Sophie Valk, + 2 students (45 min + discussion):  
 
+**Open discussion on collaborative projects**
 
+#### Dinner
 
-Tuesday evening session : 
-6pm-8pm: Steve Miller & Jessie Guo  
+#### Part IV Virtual Evening Session on Neonatal Imaging 
+#### 6pm- 8pm Via Zoom
+
+&nbsp;&nbsp;&nbsp;&nbsp; Steve Miller & Jessie Guo  
 
 
 **Internal speakers to be sprinkled in:** 
