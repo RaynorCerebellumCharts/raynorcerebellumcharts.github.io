@@ -33,7 +33,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 &nbsp; Bart van der Warrenburg: 
 
-ENIMGA: Jessica Faber.... (Joern Invite)
+ENIMGA Ataxia: Jennifer Faber (or Ian Harding?).... (Joern Invite)
 
 Dagmar Timann (Joern Inivite) 
 
