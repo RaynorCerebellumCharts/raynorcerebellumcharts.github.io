@@ -19,7 +19,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 **Introduction to the workshop / prject** (10min) 
 
-      [Joern Diedrichsen](https://diedrichsenlab.org), [Ryan Muetzel](https://ipni.nl/people/) & [Andre Marquand](https://www.ru.nl/en/people/marquand-a)
+[Joern Diedrichsen](https://diedrichsenlab.org), [Ryan Muetzel](https://ipni.nl/people/) & [Andre Marquand](https://www.ru.nl/en/people/marquand-a)
 
 **Raynor Cerebellar Project Board: Introduction to the Raynor Cerebellum Project** (30min)
 
