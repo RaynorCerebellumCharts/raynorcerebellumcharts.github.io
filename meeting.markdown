@@ -89,6 +89,18 @@ Hotel reservations for invited speakers are being made, further details will fol
 Please let us know ASAP your exact travel plans (email Mascha) 
 
 
+## Travel information
+
+**Schiphol Airport (Amsterdam)**
+
+https://www.schiphol.nl/en
+
+
+
+**The Erasmus Medical Center**
+
+https://www.erasmusmc.nl/en/contact-details-and-directions
+
 
 <DIRECTIONS> 
 
