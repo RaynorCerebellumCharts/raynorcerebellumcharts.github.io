@@ -27,25 +27,26 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 **Voxel-wise growth curve modelling of the cerebellum** (45min + Discussion): 
 
-&nbsp; [Torgeir Moberget](https://ous-research.no/home/brain-plasticity/Group+members/17879)
+&nbsp;&nbsp;&nbsp;&nbsp; [Torgeir Moberget](https://ous-research.no/home/brain-plasticity/Group+members/17879)
 
 #### Part II: Clinical Perspectives in Adult Cerebellar Disorders 
 
 **Opportunities for high-dimensional normative models of the cerebellum in adult cerebellar disorders**
 
-&nbsp; [Bart van der Warrenburg](https://www.radboudumc.nl/en/news/2020/a-personal-glimpse-of-bart-van-de-warrenburg) 
+&nbsp;&nbsp;&nbsp;&nbsp; [Bart van der Warrenburg](https://www.radboudumc.nl/en/news/2020/a-personal-glimpse-of-bart-van-de-warrenburg) 
 
 **The ENIMGA Ataxia working group** 
 
-&nbsp; Jennifer Faber (or Ian Harding?).... (Joern Invite)
+&nbsp;&nbsp;&nbsp;&nbsp; Jennifer Faber (or Ian Harding?).... (Joern Invite)
 
+**DAGMAR TALK PLACEHOLDER**
+&nbsp;&nbsp;&nbsp;&nbsp; Dagmar Timann (Joern Inivite) 
 
-Dagmar Timann (Joern Inivite) 
+#### Concluding Remarks / Wrap-up
 
-8pm 
-Workshop Dinner with all invited speakers
+#### Workshop Dinner (limit to invited speakers?)
 
-**Tuesday**:
+#### Tuesday (April 23, 2023):
 
 TBD: (Ryan)
 Neonatal imaging 
