@@ -17,7 +17,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 #### Monday (April 22, 2023):
 #### Part I: Introduction & Aim
 
-**Introduction to the workshop / prject** (10min) 
+&nbsp; **Introduction to the workshop / prject** (10min) 
 
 &nbsp; [Joern Diedrichsen](https://diedrichsenlab.org), [Ryan Muetzel](https://ipni.nl/people/) & [Andre Marquand](https://www.ru.nl/en/people/marquand-a)
 
