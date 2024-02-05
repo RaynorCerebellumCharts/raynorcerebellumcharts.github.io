@@ -91,10 +91,14 @@ Please let us know ASAP your exact travel plans (email Mascha)
 
 ## Travel information
 
-**Schiphol Airport (Amsterdam)**
+[**Schiphol Airport (Amsterdam)**](https://www.schiphol.nl/en)
 
-https://www.schiphol.nl/en
 
+
+[**Rotterdam / The Hague Airport**](https://www.rotterdamthehagueairport.nl/parkeren/?gclid=CjwKCAiAq4KuBhA6EiwArMAw1NErmZv2rgImTr3OkDzulnqIjLc2JmIDeAf4cbkKjtW0qmjcmj20vxoCjdYQAvD_BwE)
+
+
+**Eindhoven Aiport**
 
 
 **The Erasmus Medical Center**
