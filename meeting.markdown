@@ -31,7 +31,8 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 #### Part II: Clinical Perspectives in Adult Cerebellar Disorders 
 
-&nbsp; Bart van der Warrenburg: 
+**Opportunities for high-dimensional normative models of the cerebellum in adult cerebellar disorders**
+&nbsp; [Bart van der Warrenburg](https://www.radboudumc.nl/en/news/2020/a-personal-glimpse-of-bart-van-de-warrenburg) 
 
 ENIMGA Ataxia: Jennifer Faber (or Ian Harding?).... (Joern Invite)
 
