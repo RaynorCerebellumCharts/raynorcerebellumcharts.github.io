@@ -67,6 +67,10 @@ The first two days will be dedicated to talks from collaborators and invited spe
 &nbsp;&nbsp;&nbsp;&nbsp; Steve Miller & Jessie Guo  
 
 
+
+
+
+
 **Internal speakers to be sprinkled in:** 
 Caroline Nettekoven (20min)
 Mallar's student <??> 
@@ -76,15 +80,16 @@ Caroline Gaiser
 
 
 ### Day 3 & 4: April 24th - April 25th
+### Location: Erasmus MC KJPP 2814
 The second two days focus on the core development team to discuss technical details of the project.
 
 ## Venue & Accommodation
-Hotel reservations for invited speakers are being made by us in:
+Hotel reservations for invited speakers are being made, further details will follow soon.
 
-Please let us know ASAP your exact travel plans. 
+Please let us know ASAP your exact travel plans (email Mascha) 
 
 
-The meeting is going to be held (40 people)
+
 <DIRECTIONS> 
 
 
