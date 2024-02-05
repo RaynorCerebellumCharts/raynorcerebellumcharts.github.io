@@ -100,6 +100,9 @@ Please let us know ASAP your exact travel plans (email Mascha)
 
 [**Eindhoven Aiport**](https://www.eindhovenairport.nl/en)
 
+[**The Dutch Train Network](https://www.ns.nl/en)
+
+[Rotterdam Public Transport](https://9292.nl/en)
 
 **The Erasmus Medical Center**
 
