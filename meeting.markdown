@@ -31,52 +31,38 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 #### Part II: Clinical Perspectives in Adult Cerebellar Disorders (afternoon program)
 
-**Opportunities for high-dimensional normative models of the cerebellum in adult cerebellar disorders**
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Bart van der Warrenburg](https://www.radboudumc.nl/en/news/2020/a-personal-glimpse-of-bart-van-de-warrenburg) 
 
-**The ENIMGA Ataxia working group** 
+&nbsp;&nbsp;&nbsp;&nbsp; Jennifer Faber 
 
-&nbsp;&nbsp;&nbsp;&nbsp; Jennifer Faber (or Ian Harding?).... (Joern Invite)
-
-**DAGMAR TALK PLACEHOLDER**
-&nbsp;&nbsp;&nbsp;&nbsp; Dagmar Timann (Joern Inivite) 
+&nbsp;&nbsp;&nbsp;&nbsp; Dagmar Timann  
 
 #### Concluding Remarks / Wrap-up
 
-#### Workshop Dinner (limit to invited speakers?)
+#### Workshop Dinner with speakers
 
 ### Tuesday (April 23, 2023):
-#### Part III: Neonatal, childhood and aadolescent cerebellar imaging
+#### Part III: Childhood and adolescent cerebellar imaging
 
-**Neonatal imaging TALK PLACEHOLDER**
+&nbsp;&nbsp;&nbsp;&nbsp;  Sophie Valk, Aikaterina Manoli, and Neville Magielse
 
-&nbsp;&nbsp;&nbsp;&nbsp; TBD (ryan invites)
+&nbsp;&nbsp;&nbsp;&nbsp;  Caroline Gaiser 
 
-**Clincial perspectives on adolensence cerebellar developement**
 
-&nbsp;&nbsp;&nbsp;&nbsp;  TBD: Sophie Valk, + 2 students (45 min + discussion):  
+#### Part IVa: Neonatal imaging and developement 
+
+&nbsp;&nbsp;&nbsp;&nbsp; Speakers to be determined 
+
 
 **Open discussion on collaborative projects**
 
 #### Dinner
 
-#### Part IV Virtual Evening Session on Neonatal Imaging 
-#### 6pm- 8pm Via Zoom
+#### Part IVb: Virtual Evening Session on Neonatal Imaging 
+#### 6pm- 7:30pm Via Zoom
 
-&nbsp;&nbsp;&nbsp;&nbsp; Steve Miller & Jessie Guo  
-
-
-
-
-
-
-**Internal speakers to be sprinkled in:** 
-Caroline Nettekoven (20min)
-Mallar's student <??> 
-Caroline Gaiser 
-
-
+&nbsp;&nbsp;&nbsp;&nbsp; Steve Miller, Jessie Guo    
 
 
 ### Day 3 & 4: April 24th - April 25th
