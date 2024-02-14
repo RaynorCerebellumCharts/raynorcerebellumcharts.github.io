@@ -29,6 +29,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Torgeir Moberget](https://ous-research.no/home/brain-plasticity/Group+members/17879)
 
+
 #### Part II: Clinical Perspectives in Adult Cerebellar Disorders (afternoon program)
 
 
@@ -36,7 +37,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 &nbsp;&nbsp;&nbsp;&nbsp; Jennifer Faber 
 
-&nbsp;&nbsp;&nbsp;&nbsp; Dagmar Timann  
+&nbsp;&nbsp;&nbsp;&nbsp; Dagmar Timann  (Will bring extra person)
 
 #### Concluding Remarks / Wrap-up
 
@@ -45,7 +46,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 ### Tuesday (April 23, 2023):
 #### Part III: Childhood and adolescent cerebellar imaging
 
-&nbsp;&nbsp;&nbsp;&nbsp;  Sophie Valk, Aikaterina Manoli, and Neville Magielse
+&nbsp;&nbsp;&nbsp;&nbsp;  Sophie Valk, Aikaterina Manoli, and Neville Magielse (45min)
 
 &nbsp;&nbsp;&nbsp;&nbsp;  Caroline Gaiser 
 
