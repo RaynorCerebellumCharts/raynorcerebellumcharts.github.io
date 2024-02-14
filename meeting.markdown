@@ -29,6 +29,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Torgeir Moberget](https://ous-research.no/home/brain-plasticity/Group+members/17879)
 
+Carolin Nette Koven : atlas
 
 #### Part II: Clinical Perspectives in Adult Cerebellar Disorders (afternoon program)
 
