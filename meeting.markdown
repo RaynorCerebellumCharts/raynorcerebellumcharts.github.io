@@ -52,7 +52,9 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 &nbsp;&nbsp;&nbsp;&nbsp;  Sofie Valk, Aikaterina Manoli, and Neville Magielse (45min)
 
-&nbsp;&nbsp;&nbsp;&nbsp;  Caroline Gaiser 
+***Child and Adolescent cerebellar development: a population-based perspective***
+
+&nbsp;&nbsp;&nbsp;&nbsp;  Caroline Gaiser (Title TBD)
 
 
 --- Lunch ---
