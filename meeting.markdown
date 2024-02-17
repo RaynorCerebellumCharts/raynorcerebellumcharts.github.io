@@ -23,13 +23,16 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 **Raynor Cerebellar Project Board: Introduction to the Raynor Cerebellum Project** (30min)
 
-&nbsp;&nbsp;&nbsp;&nbsp; [Adam Hantman, Roy Sillitoe, Steven Lisberger](https://raynorcerebellumproject.org/our-team-2/)
+&nbsp;&nbsp;&nbsp;&nbsp; [Adam Hantman, Roy Sillitoe, Stephen Lisberger](https://raynorcerebellumproject.org/our-team-2/)
 
 **Voxel-wise growth curve modelling of the cerebellum** (45min + Discussion): 
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Torgeir Moberget](https://ous-research.no/home/brain-plasticity/Group+members/17879)
 
-Carolin Nette Koven : atlas
+**Cerebellar Atlases** 
+
+&nbsp;&nbsp;&nbsp;&nbsp; [Carolin Nettekoven](https://www.caroline-nettekoven.com)
+
 
 #### Part II: Clinical Perspectives in Adult Cerebellar Disorders (afternoon program)
 
