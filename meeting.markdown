@@ -89,10 +89,8 @@ The first two days will be dedicated to talks from collaborators and invited spe
 The second two days focus on the core development team to discuss technical details of the project.
 
 ## Venue & Accommodation
-Hotel reservations for invited speakers are being made, further details will follow soon.
 
-Please let us know ASAP your exact travel plans (email Mascha) 
-
+More information will follow soon...
 
 ## Travel information
 
