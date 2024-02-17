@@ -81,7 +81,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 #### Part IVb: Virtual Evening Session on Neonatal Imaging 
 #### 6pm- 7:30pm Via Zoom
 
-&nbsp;&nbsp;&nbsp;&nbsp; Steve Miller, Jessie Guo    
+&nbsp;&nbsp;&nbsp;&nbsp; [Steve Miller](https://www.sickkids.ca/en/staff/m/steven-miller/), Jessie Guo    
 
 
 ### Day 3 & 4: April 24th - April 25th
