@@ -62,7 +62,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 ***(Title TBD)***
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;  Sofie Valk, Aikaterina Manoli, and Neville Magielse 
+&nbsp;&nbsp;&nbsp;&nbsp;  [Sofie Valk, Aikaterina Manoli, and Neville Magielse](https://cng-lab.github.io)
 
 ***Child and Adolescent cerebellar development: a population-based perspective***
 
