@@ -98,15 +98,6 @@ Please let us know ASAP your exact travel plans (email Mascha)
 https://www.erasmusmc.nl/en/contact-details-and-directions
 
 
-###  RYAN QUESTIONS FOR JORN
-## 1.) lunch in EMC or out of EMC for 2nd two days
-## 2.) How many hotels?
-## 3.) Dinner for Monday evening...how many people. rest of evenings, dinner on own? 
-## 4.) Activity tour of the Depot Booijmans? Water taxi to hotel ny?
-## 5.) how to handle evning on Tuesday...stay an extra night?
-## 6.) we need final numbers of attendees soon
-
-
 <DIRECTIONS> 
 
 
