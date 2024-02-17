@@ -23,7 +23,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 **Raynor Cerebellar Project Board: Introduction to the Raynor Cerebellum Project** (30min)
 
-&nbsp;&nbsp;&nbsp;&nbsp; [Adam Hantman, Roy Sillytoe, Steven Lisberger](https://raynorcerebellumproject.org/our-team-2/)
+&nbsp;&nbsp;&nbsp;&nbsp; [Adam Hantman, Roy Sillitoe, Steven Lisberger](https://raynorcerebellumproject.org/our-team-2/)
 
 **Voxel-wise growth curve modelling of the cerebellum** (45min + Discussion): 
 
