@@ -39,9 +39,9 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Bart van der Warrenburg](https://www.radboudumc.nl/en/news/2020/a-personal-glimpse-of-bart-van-de-warrenburg) 
 
-&nbsp;&nbsp;&nbsp;&nbsp; Jennifer Faber 
+&nbsp;&nbsp;&nbsp;&nbsp; Jennifer Faber (Title TBD)
 
-&nbsp;&nbsp;&nbsp;&nbsp; Dagmar Timann  (Will bring extra person)
+&nbsp;&nbsp;&nbsp;&nbsp; Dagmar Timann  (Title TBD)
 
 #### Concluding Remarks / Wrap-up
 
@@ -50,7 +50,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 ### Tuesday (April 23, 2023):
 #### Part III: Childhood and adolescent cerebellar imaging
 
-&nbsp;&nbsp;&nbsp;&nbsp;  Sophie Valk, Aikaterina Manoli, and Neville Magielse (45min)
+&nbsp;&nbsp;&nbsp;&nbsp;  Sofie Valk, Aikaterina Manoli, and Neville Magielse (45min)
 
 &nbsp;&nbsp;&nbsp;&nbsp;  Caroline Gaiser 
 
