@@ -37,9 +37,18 @@ The first two days will be dedicated to talks from collaborators and invited spe
 #### Part II: Clinical Perspectives in Adult Cerebellar Disorders (afternoon program)
 
 
+***(Title TBD)***
+
+
 &nbsp;&nbsp;&nbsp;&nbsp; [Bart van der Warrenburg](https://www.radboudumc.nl/en/news/2020/a-personal-glimpse-of-bart-van-de-warrenburg) 
 
-&nbsp;&nbsp;&nbsp;&nbsp; Jennifer Faber (Title TBD)
+
+***(Title TBD)***
+
+&nbsp;&nbsp;&nbsp;&nbsp; Jennifer Faber
+
+
+***(Title TBD)***
 
 &nbsp;&nbsp;&nbsp;&nbsp; Dagmar Timann  (Title TBD)
 
@@ -50,7 +59,10 @@ The first two days will be dedicated to talks from collaborators and invited spe
 ### Tuesday (April 23, 2023):
 #### Part III: Childhood and adolescent cerebellar imaging
 
-&nbsp;&nbsp;&nbsp;&nbsp;  Sofie Valk, Aikaterina Manoli, and Neville Magielse (Title TBD)
+***(Title TBD)***
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;  Sofie Valk, Aikaterina Manoli, and Neville Magielse 
 
 ***Child and Adolescent cerebellar development: a population-based perspective***
 
@@ -61,7 +73,6 @@ The first two days will be dedicated to talks from collaborators and invited spe
 #### Part IVa: Neonatal imaging and developement 
 
 &nbsp;&nbsp;&nbsp;&nbsp; Speakers to be determined 
-
 
 **Open discussion on collaborative projects**
 
