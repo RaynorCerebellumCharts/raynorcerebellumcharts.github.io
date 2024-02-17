@@ -85,6 +85,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 
 ### Day 3 & 4: April 24th - April 25th
+### Core Team Project Meeting
 ### Location: Erasmus MC KJPP 2814
 The second two days focus on the core development team to discuss technical details of the project.
 
