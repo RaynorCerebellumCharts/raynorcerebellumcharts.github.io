@@ -17,15 +17,15 @@ The first two days will be dedicated to talks from collaborators and invited spe
 ### Monday (April 22, 2023):
 #### Part I: Introduction & Aim (morning program)
 
-**Introduction to the workshop / prject** (10min) 
+**Introduction to the workshop / prject** 
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Joern Diedrichsen](https://diedrichsenlab.org), [Ryan Muetzel](https://ipni.nl/people/) & [Andre Marquand](https://www.ru.nl/en/people/marquand-a)
 
-**Raynor Cerebellar Project Board: Introduction to the Raynor Cerebellum Project** (30min)
+**Raynor Cerebellar Project Board: Introduction to the Raynor Cerebellum Project** 
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Adam Hantman, Roy Sillitoe, Stephen Lisberger](https://raynorcerebellumproject.org/our-team-2/)
 
-**Voxel-wise growth curve modelling of the cerebellum** (45min + Discussion): 
+**Voxel-wise growth curve modelling of the cerebellum**: 
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Torgeir Moberget](https://ous-research.no/home/brain-plasticity/Group+members/17879)
 
@@ -50,11 +50,11 @@ The first two days will be dedicated to talks from collaborators and invited spe
 ### Tuesday (April 23, 2023):
 #### Part III: Childhood and adolescent cerebellar imaging
 
-&nbsp;&nbsp;&nbsp;&nbsp;  Sofie Valk, Aikaterina Manoli, and Neville Magielse (45min)
+&nbsp;&nbsp;&nbsp;&nbsp;  Sofie Valk, Aikaterina Manoli, and Neville Magielse (Title TBD)
 
 ***Child and Adolescent cerebellar development: a population-based perspective***
 
-&nbsp;&nbsp;&nbsp;&nbsp;  Caroline Gaiser (Title TBD)
+&nbsp;&nbsp;&nbsp;&nbsp;  Caroline Gaiser
 
 
 --- Lunch ---
