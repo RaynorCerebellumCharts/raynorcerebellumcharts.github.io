@@ -60,7 +60,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 ***(Title TBD)***
 
-&nbsp;&nbsp;&nbsp;&nbsp; Dagmar Timann  (Title TBD)
+&nbsp;&nbsp;&nbsp;&nbsp; Dagmar Timann 
 
 #### Concluding Remarks / Wrap-up
 
