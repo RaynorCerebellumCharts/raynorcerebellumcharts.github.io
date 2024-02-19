@@ -29,6 +29,12 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Torgeir Moberget](https://ous-research.no/home/brain-plasticity/Group+members/17879)
 
+
+**Unsupervised Anomaly Detection for Principled Heterogeneity Mapping**
+
+&nbsp;&nbsp;&nbsp;&nbsp; [Thomas Wolfers](https://www.thomaswolfers.com)
+
+
 **Cerebellar Atlases** 
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Carolin Nettekoven](https://www.caroline-nettekoven.com)
@@ -72,7 +78,9 @@ The first two days will be dedicated to talks from collaborators and invited spe
 --- Lunch ---
 #### Part IVa: Neonatal imaging and developement 
 
-&nbsp;&nbsp;&nbsp;&nbsp; Speakers to be determined 
+***(Title TBD)***
+
+&nbsp;&nbsp;&nbsp;&nbsp; [Manon Benders](https://www.umcutrecht.nl/en/research/researchers/benders-manon-mjnl)
 
 **Open discussion on collaborative projects**
 
