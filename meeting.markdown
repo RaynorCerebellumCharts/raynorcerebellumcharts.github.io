@@ -37,7 +37,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 #### Part II: Clinical Perspectives in Adult Cerebellar Disorders (afternoon program)
 
 
-***(Title TBD)***
+***Can neuroimaging serve trial readiness in cerebellar ataxias?***
 
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Bart van der Warrenburg](https://www.radboudumc.nl/en/news/2020/a-personal-glimpse-of-bart-van-de-warrenburg) 
