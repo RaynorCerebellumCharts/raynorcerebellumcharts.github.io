@@ -17,11 +17,11 @@ The first two days will be dedicated to talks from collaborators and invited spe
 ### Monday (April 22, 2023):
 #### Part I: Introduction & Aim (morning program)
 
-**Introduction to the workshop / prject** 
+***Introduction to the workshop / project*** 
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Joern Diedrichsen](https://diedrichsenlab.org), [Ryan Muetzel](https://ipni.nl/people/) & [Andre Marquand](https://www.ru.nl/en/people/marquand-a)
 
-**Raynor Cerebellar Project Board: Introduction to the Raynor Cerebellum Project** 
+***Raynor Cerebellar Project Board: Introduction to the Raynor Cerebellum Project*** 
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Adam Hantman, Roy Sillitoe, Stephen Lisberger](https://raynorcerebellumproject.org/our-team-2/)
 
@@ -34,12 +34,12 @@ The first two days will be dedicated to talks from collaborators and invited spe
 &nbsp;&nbsp;&nbsp;&nbsp; [Torgeir Moberget](https://ous-research.no/home/brain-plasticity/Group+members/17879)
 
 
-**Unsupervised Anomaly Detection for Principled Heterogeneity Mapping**
+***Unsupervised Anomaly Detection for Principled Heterogeneity Mapping***
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Thomas Wolfers](https://www.thomaswolfers.com)
 
 
-**Cerebellar Atlases** 
+***(Title TBD)***
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Carolin Nettekoven](https://www.caroline-nettekoven.com)
 
@@ -86,7 +86,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Manon Benders](https://www.umcutrecht.nl/en/research/researchers/benders-manon-mjnl)
 
-**Open discussion on collaborative projects**
+#### Open discussion on collaborative projects
 
 #### Dinner
 
@@ -96,10 +96,10 @@ The first two days will be dedicated to talks from collaborators and invited spe
 &nbsp;&nbsp;&nbsp;&nbsp; [Steve Miller](https://www.sickkids.ca/en/staff/m/steven-miller/), Jessie Guo    
 
 
-### Day 3 & 4: April 24th - April 25th
-### Core Team Project Meeting
-### Location: Erasmus MC KJPP 2814
-The second two days focus on the core development team to discuss technical details of the project.
+## Day 3 & 4: April 24th - April 25th: Core Team Project Meeting
+#### Location: Erasmus MC KJPP 2814
+
+The second two days are reserved for the core development team to perform a requirements analysis, make decision on project design, build work-groups, and set concrete goals and milestones. 
 
 ## Venue & Accommodation
 
