@@ -25,7 +25,11 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Adam Hantman, Roy Sillitoe, Stephen Lisberger](https://raynorcerebellumproject.org/our-team-2/)
 
-**Voxel-wise growth curve modelling of the cerebellum**: 
+
+#### Part II: A look at the status of cerebellar neuroimaging and growth models
+
+
+***(Title TBD)***
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Torgeir Moberget](https://ous-research.no/home/brain-plasticity/Group+members/17879)
 
@@ -40,7 +44,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 &nbsp;&nbsp;&nbsp;&nbsp; [Carolin Nettekoven](https://www.caroline-nettekoven.com)
 
 
-#### Part II: Clinical Perspectives in Adult Cerebellar Disorders (afternoon program)
+#### Part III: Clinical Perspectives in Adult Cerebellar Disorders (afternoon program)
 
 
 ***Can neuroimaging serve trial readiness in cerebellar ataxias?***
@@ -63,7 +67,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 #### Workshop Dinner with speakers
 
 ### Tuesday (April 23, 2023):
-#### Part III: Childhood and adolescent cerebellar imaging
+#### Part IV: Childhood and adolescent cerebellar imaging
 
 ***(Title TBD)***
 
@@ -76,7 +80,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 
 --- Lunch ---
-#### Part IVa: Neonatal imaging and developement 
+#### Part Va: Neonatal imaging and developement 
 
 ***(Title TBD)***
 
@@ -86,7 +90,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 #### Dinner
 
-#### Part IVb: Virtual Evening Session on Neonatal Imaging 
+#### Part Vb: Virtual Evening Session on Neonatal Imaging 
 #### 6pm- 7:30pm Via Zoom
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Steve Miller](https://www.sickkids.ca/en/staff/m/steven-miller/), Jessie Guo    
