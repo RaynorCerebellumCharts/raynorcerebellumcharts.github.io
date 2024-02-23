@@ -26,13 +26,16 @@ The first two days will be dedicated to talks from collaborators and invited spe
 &nbsp;&nbsp;&nbsp;&nbsp; [Adam Hantman, Roy Sillitoe, Stephen Lisberger](https://raynorcerebellumproject.org/our-team-2/)
 
 
-#### Part II: A look at the status of cerebellar neuroimaging and growth models
+#### Part II: Novel cerebellar (parcellation) methods
 
 
 ***Data-driven decomposition of cerebellar grey matter maps reveals highly reproducible structural covariance patterns***
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Torgeir Moberget](https://ous-research.no/home/brain-plasticity/Group+members/17879)
 
+***Mapping Cerebellar Anatomical Heterogeneity in Mental and Neurological Illnesses***
+
+&nbsp;&nbsp;&nbsp;&nbsp; [Milin Kim](https://scholar.google.com/citations?user=AFKkkOEAAAAJ&hl=en)
 
 ***Unsupervised Anomaly Detection for Principled Heterogeneity Mapping***
 
