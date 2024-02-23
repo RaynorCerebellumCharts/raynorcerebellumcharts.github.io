@@ -29,7 +29,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 #### Part II: A look at the status of cerebellar neuroimaging and growth models
 
 
-***(Title TBD)***
+***Data-driven decomposition of cerebellar grey matter maps reveals highly reproducible structural covariance patterns***
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Torgeir Moberget](https://ous-research.no/home/brain-plasticity/Group+members/17879)
 
