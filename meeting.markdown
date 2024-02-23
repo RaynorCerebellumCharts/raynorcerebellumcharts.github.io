@@ -42,7 +42,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 &nbsp;&nbsp;&nbsp;&nbsp; [Thomas Wolfers](https://www.thomaswolfers.com)
 
 
-***(Title TBD)***
+***Functional Parcellation of the cerebellum:  The Multidomain task battery***
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Carolin Nettekoven](https://www.caroline-nettekoven.com)
 
