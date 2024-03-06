@@ -29,9 +29,14 @@ The first two days will be dedicated to talks from collaborators and invited spe
 #### Part II: A look at the status of cerebellar neuroimaging and growth models
 
 
-***(Title TBD)***
+***Data-driven decomposition of cerebellar grey matter maps reveals highly reproducible structural covariance patterns.***
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Torgeir Moberget](https://ous-research.no/home/brain-plasticity/Group+members/17879)
+
+
+***Mapping Cerebellar Anatomical Heterogeneity in Mental and Neurological Illnesses.***
+
+&nbsp;&nbsp;&nbsp;&nbsp; [Millin Kim]
 
 
 ***Unsupervised Anomaly Detection for Principled Heterogeneity Mapping***
@@ -39,9 +44,9 @@ The first two days will be dedicated to talks from collaborators and invited spe
 &nbsp;&nbsp;&nbsp;&nbsp; [Thomas Wolfers](https://www.thomaswolfers.com)
 
 
-***(Title TBD)***
+***Navigating the cerebellum: Localizing functional regions using fMRI***
 
-&nbsp;&nbsp;&nbsp;&nbsp; [Carolin Nettekoven](https://www.caroline-nettekoven.com)
+&nbsp;&nbsp;&nbsp;&nbsp; [Caroline Nettekoven](https://www.caroline-nettekoven.com)
 
 
 #### Part III: Clinical Perspectives in Adult Cerebellar Disorders (afternoon program)
