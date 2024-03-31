@@ -80,9 +80,9 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 ***16:00 - Discussion***
 
-#### Concluding Remarks / Wrap-up
+***16:20 - Concluding Remarks / Wrap-up***
 
-#### Workshop Dinner with speakers
+#### 18:30 - Workshop Dinner with speakers
 
 ### Tuesday (April 23, 2023):
 #### Part IV: Childhood and adolescent cerebellar imaging
