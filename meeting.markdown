@@ -24,7 +24,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Joern Diedrichsen](https://diedrichsenlab.org), [Ryan Muetzel](https://ipni.nl/people/) & [Andre Marquand](https://www.ru.nl/en/people/marquand-a)
 
-***Raynor Cerebellar Project Board: Introduction to the Raynor Cerebellum Project*** 
+***9:45 - Raynor Cerebellar Project Board: Introduction to the Raynor Cerebellum Project*** 
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Adam Hantman, Roy Sillitoe, Stephen Lisberger](https://raynorcerebellumproject.org/our-team-2/)
 
@@ -32,25 +32,29 @@ The first two days will be dedicated to talks from collaborators and invited spe
 #### Part II: A look at the status of cerebellar neuroimaging and growth models
 
 
-***Data-driven decomposition of cerebellar grey matter maps reveals highly reproducible structural covariance patterns.***
+***10:00 - Data-driven decomposition of cerebellar grey matter maps reveals highly reproducible structural covariance patterns.***
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Torgeir Moberget](https://ous-research.no/home/brain-plasticity/Group+members/17879)
 
 
-***Mapping Cerebellar Anatomical Heterogeneity in Mental and Neurological Illnesses.***
+***10:30 - Mapping Cerebellar Anatomical Heterogeneity in Mental and Neurological Illnesses.***
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Millin Kim]
 
 
-***Unsupervised Anomaly Detection for Principled Heterogeneity Mapping***
+***10:50 - Unsupervised Anomaly Detection for Principled Heterogeneity Mapping***
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Thomas Wolfers](https://www.thomaswolfers.com)
 
+***11:30 - Break - Coffee & Tea***
 
-***Navigating the cerebellum: Localizing functional regions using fMRI***
+***11:30 - Navigating the cerebellum: Localizing functional regions using fMRI***
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Caroline Nettekoven](https://www.caroline-nettekoven.com)
 
+***11:50 - Discussion***
+
+***12:30 - Lunch***
 
 #### Part III: Clinical Perspectives in Adult Cerebellar Disorders (afternoon program)
 
