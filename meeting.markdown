@@ -8,13 +8,14 @@ permalink: /meeting/
 
 We are excited to announce the kick-off meeting of the Cerebellum Brain Charts for Development and Ageing project. The meeting will take place in Rotterdam, Netherlands from April 22nd to 25th, 2024. and be hosted by the Erasmus University Medical Center.
 
-## Preliminary Program
+##  Program
 
 ## Day 1 & 2 : April 22nd - April 23nd
 The first two days will be dedicated to talks from collaborators and invited speakers, who will highlight the key challenges and opportunities in the field, mainly from a clinical perspective. The workshop will be highly interactive, providing ample of opportunities for discussion possible collaborative project.
 
 
 ### Monday (April 22, 2023):
+### Location: Erasmus MC Educational Center 
 
 ***9:00 - Arrival / Coffee & Tea***
 
@@ -85,10 +86,10 @@ The first two days will be dedicated to talks from collaborators and invited spe
 #### 18:30 - Workshop Dinner with speakers
 
 ### Tuesday (April 23, 2023):
+### Location: Bildeberg Hotel
 #### Part IV: Childhood and adolescent cerebellar imaging
 
 ***(Title TBD)***
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;  [Sofie Valk, Aikaterina Manoli, and Neville Magielse](https://cng-lab.github.io)
 
