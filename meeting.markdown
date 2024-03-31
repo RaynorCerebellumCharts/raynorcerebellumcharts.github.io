@@ -46,7 +46,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Thomas Wolfers](https://www.thomaswolfers.com)
 
-***11:30 - Break - Coffee & Tea***
+***11:10 - Break - Coffee & Tea***
 
 ***11:30 - Navigating the cerebellum: Localizing functional regions using fMRI***
 
