@@ -16,11 +16,11 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 ### Monday (April 22, 2023):
 
-#### 9:00 - Arrival / Coffee & Tea
+***9:00 - Arrival / Coffee & Tea***
 
 #### Part I: Introduction & Aim (morning program)
 
-***Introduction to the workshop / project*** 
+***9:30 - Introduction to the workshop / project*** 
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Joern Diedrichsen](https://diedrichsenlab.org), [Ryan Muetzel](https://ipni.nl/people/) & [Andre Marquand](https://www.ru.nl/en/people/marquand-a)
 
