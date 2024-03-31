@@ -49,49 +49,54 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 ***11:10 - Break - Coffee & Tea***
 
-***11:30 - Navigating the cerebellum: Localizing functional regions using fMRI***
+***11:30 - Discussion***
+
+***12:00 - Lunch***
+
+***13:00 - Navigating the cerebellum: Localizing functional regions using fMRI***
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Caroline Nettekoven](https://www.caroline-nettekoven.com)
 
-***11:50 - Discussion***
-
-***12:30 - Lunch***
+***13:30 - Discussion***
 
 #### Part III: Clinical Perspectives in Adult Cerebellar Disorders (afternoon program)
 
-
-***13:30 - Can neuroimaging serve trial readiness in cerebellar ataxias?***
-
+***13:50 - Can neuroimaging serve trial readiness in cerebellar ataxias?***
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Bart van der Warrenburg](https://www.radboudumc.nl/en/news/2020/a-personal-glimpse-of-bart-van-de-warrenburg) 
 
-***14:00 - Discussion***
+***14:10 - Discussion***
 
-***14:20: - Automated cerebellar segmentation:  Volumetric readouts for individual trajectories and perspectives at 7T***
+***14:30: - Automated cerebellar segmentation:  Volumetric readouts for individual trajectories and perspectives at 7T***
 
 &nbsp;&nbsp;&nbsp;&nbsp; Jennifer Faber
 
-***14:50 - Discussion***
+***15:00 - Discussion***
 
-***15:10 - Break - Coffee & Tea***
+***15:20 - Break - Coffee & Tea***
 
-***15:30 - (Title TBD)***
+***15:40 - (Title TBD)***
 
 &nbsp;&nbsp;&nbsp;&nbsp; Dagmar Timann 
 
-***16:00 - Discussion***
+***16:10 - Discussion***
 
-***16:20 - Concluding Remarks / Wrap-up***
+***16:30 - Concluding Remarks / Wrap-up***
 
 #### 18:30 - Workshop Dinner with speakers
 
 ### Tuesday (April 23, 2023):
-### Location: Bildeberg Hotel
+### Location: Bilderberg Hotel Rotterdam
 #### Part IV: Childhood and adolescent cerebellar imaging
 
-***(Title TBD)***
+***9:45 - Arrival / Coffee & Tea***
+
+***10:15 - (Title TBD)***
 
 &nbsp;&nbsp;&nbsp;&nbsp;  [Sofie Valk, Aikaterina Manoli, and Neville Magielse](https://cng-lab.github.io)
+
+***11:25 - Discussion***
+
 
 ***Child and Adolescent cerebellar development: a population-based perspective***
 
