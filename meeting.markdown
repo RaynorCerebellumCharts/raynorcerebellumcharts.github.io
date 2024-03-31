@@ -15,6 +15,9 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 
 ### Monday (April 22, 2023):
+
+#### 9:00 - Arrival / Coffee & Tea
+
 #### Part I: Introduction & Aim (morning program)
 
 ***Introduction to the workshop / project*** 
