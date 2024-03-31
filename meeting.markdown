@@ -97,26 +97,34 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 ***11:25 - Discussion***
 
+**11:45 - Wrap up Morning***
 
-***Child and Adolescent cerebellar development: a population-based perspective***
+***12:00 - Lunch (Bilderburg)***
+
+***13:00 - Child and Adolescent cerebellar development: a population-based perspective***
 
 &nbsp;&nbsp;&nbsp;&nbsp;  [Caroline Gaiser](https://neuro.nl/person/Carolin-Gaiser)
 
+***13:30 - Discussion***
 
---- Lunch ---
 #### Part Va: Neonatal imaging and developement 
 
-***(Title TBD)***
+***13:45 - (Title TBD)***
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Manon Benders](https://www.umcutrecht.nl/en/research/researchers/benders-manon-mjnl)
 
-#### Open discussion on collaborative projects
+***14:15 - Discussion***
 
-#### Dinner
+***14:30 - Break - Coffee & Tea***
+
+***14:45 Open discussion on collaborative projects***
+
+***17:00 Walking Dinner / Buffet***
 
 #### Part Vb: Virtual Evening Session on Neonatal Imaging 
-#### 6pm- 7:30pm Via Zoom
+#### Virtual Session Via Zoom
 
+***18:00 - 19:30***
 &nbsp;&nbsp;&nbsp;&nbsp; [Steve Miller](https://www.sickkids.ca/en/staff/m/steven-miller/), Jessie Guo    
 
 
