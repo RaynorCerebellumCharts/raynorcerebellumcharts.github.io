@@ -138,7 +138,7 @@ The second two days are reserved for the core development team to perform a requ
 ***Please contact Ryan Muetzel (r.muetzel@erasmusmc.nl) or Mascha Joustra (m.joustra@erasmusmc.nl) if you have any questions regarding your hotel accomodations***
 
 ***Hotel:***
-[**The Bilderberg**]*https://www.bilderberg.nl/rotterdam/parkhotel-rotterdam/?gad_source=1&gclid=Cj0KCQjwk6SwBhDPARIsAJ59GweYJkZfFLxgp_gkx68tNO-EsbYh8WrbTk9fw7dGhyQJGAILiObFzn4aAjPAEALw_wcB)
+[**The Bilderberg**](https://www.bilderberg.nl/rotterdam/parkhotel-rotterdam/?gad_source=1&gclid=Cj0KCQjwk6SwBhDPARIsAJ59GweYJkZfFLxgp_gkx68tNO-EsbYh8WrbTk9fw7dGhyQJGAILiObFzn4aAjPAEALw_wcB)
 
 
 
