@@ -59,20 +59,26 @@ The first two days will be dedicated to talks from collaborators and invited spe
 #### Part III: Clinical Perspectives in Adult Cerebellar Disorders (afternoon program)
 
 
-***Can neuroimaging serve trial readiness in cerebellar ataxias?***
+***13:30 - Can neuroimaging serve trial readiness in cerebellar ataxias?***
 
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Bart van der Warrenburg](https://www.radboudumc.nl/en/news/2020/a-personal-glimpse-of-bart-van-de-warrenburg) 
 
+***14:00 - Discussion***
 
-***(Title TBD)***
+***14:20: - Automated cerebellar segmentation:  Volumetric readouts for individual trajectories and perspectives at 7T***
 
 &nbsp;&nbsp;&nbsp;&nbsp; Jennifer Faber
 
+***14:50 - Discussion***
 
-***(Title TBD)***
+***15:10 - Break - Coffee & Tea***
+
+***15:30 - (Title TBD)***
 
 &nbsp;&nbsp;&nbsp;&nbsp; Dagmar Timann 
+
+***16:00 - Discussion***
 
 #### Concluding Remarks / Wrap-up
 
