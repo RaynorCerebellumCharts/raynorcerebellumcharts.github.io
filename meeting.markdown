@@ -91,7 +91,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 ***9:45 - Arrival / Coffee & Tea***
 
-***10:15 - (Title TBD)***
+***10:15 - The multifaceted cerebellum: early-life development, evolution, and large-scale meta-analyses***
 
 &nbsp;&nbsp;&nbsp;&nbsp;  [Sofie Valk, Aikaterina Manoli, and Neville Magielse](https://cng-lab.github.io)
 
