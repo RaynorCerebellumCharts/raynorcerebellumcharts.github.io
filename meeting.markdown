@@ -83,7 +83,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 ***16:30 - Concluding Remarks / Wrap-up***
 
-#### 18:30 - Workshop Dinner with speakers
+#### 18:00 - Workshop Dinner with speakers
 
 ### Tuesday (April 23, 2023):
 ### Location: Bilderberg Hotel Rotterdam
