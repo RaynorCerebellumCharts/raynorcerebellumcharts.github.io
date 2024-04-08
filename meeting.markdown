@@ -75,9 +75,9 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 ***15:20 - Break - Coffee & Tea***
 
-***15:40 - (Title TBD)***
+***15:40 - Structural MRI of the cerebellar nuclei in health and disease (ataxias)***
 
-&nbsp;&nbsp;&nbsp;&nbsp; Dagmar Timann 
+&nbsp;&nbsp;&nbsp;&nbsp; Dagmar Timann & Andreas Diestung
 
 ***16:10 - Discussion***
 
