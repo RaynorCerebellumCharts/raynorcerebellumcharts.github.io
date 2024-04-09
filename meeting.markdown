@@ -103,7 +103,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 ***13:00 - Child and Adolescent cerebellar development: a population-based perspective***
 
-&nbsp;&nbsp;&nbsp;&nbsp;  [Caroline Gaiser](https://neuro.nl/person/Carolin-Gaiser)
+&nbsp;&nbsp;&nbsp;&nbsp;  [Carolin Gaiser](https://neuro.nl/person/Carolin-Gaiser)
 
 ***13:30 - Discussion***
 
