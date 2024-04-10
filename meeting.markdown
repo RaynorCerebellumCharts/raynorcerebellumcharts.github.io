@@ -63,7 +63,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 ***13:50 - Can neuroimaging serve trial readiness in cerebellar ataxias?***
 
-&nbsp;&nbsp;&nbsp;&nbsp; [Bart van der Warrenburg](https://www.radboudumc.nl/en/news/2020/a-personal-glimpse-of-bart-van-de-warrenburg) 
+&nbsp;&nbsp;&nbsp;&nbsp; [Bart van de Warrenburg](https://www.radboudumc.nl/en/people/bart-van-de-warrenburg) 
 
 ***14:10 - Discussion***
 
