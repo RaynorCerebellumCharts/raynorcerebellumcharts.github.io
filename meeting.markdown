@@ -111,7 +111,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 ***13:45 - Injury and Imaging of the neonatal cerebellum***
 
-&nbsp;&nbsp;&nbsp;&nbsp; [Jeroen Dudink](https://www.umcutrecht.nl/en/research/researchers/dudink-jeroen-j)[ Manon Benders](https://www.umcutrecht.nl/en/research/researchers/benders-manon-mjnl)
+&nbsp;&nbsp;&nbsp;&nbsp; [Jeroen Dudink](https://www.umcutrecht.nl/en/research/researchers/dudink-jeroen-j) & [Manon Benders](https://www.umcutrecht.nl/en/research/researchers/benders-manon-mjnl)
 
 ***14:15 - Discussion***
 
