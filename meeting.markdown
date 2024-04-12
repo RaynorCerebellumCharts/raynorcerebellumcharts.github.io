@@ -8,14 +8,11 @@ permalink: /meeting/
 
 We are excited to announce the kick-off meeting of the Cerebellum Brain Charts for Development and Ageing project. The meeting will take place in Rotterdam, Netherlands from April 22nd to 25th, 2024. and be hosted by the Erasmus University Medical Center.
 
-# Important Information!
+### Important information
+A google drive with useful information can be found [here](https://drive.google.com/drive/folders/1atA4N0wxGO_lveZtgQ5P41dzetIO9SWo?usp=share_link)
 
-### Contacts
+# Contacts
 ***Please contact Ryan Muetzel (r.muetzel@erasmusmc.nl) or Mascha Joustra (m.joustra@erasmusmc.nl) if you have any questions***
-
-### A google drive with useful information can be found [here](https://drive.google.com/drive/folders/1atA4N0wxGO_lveZtgQ5P41dzetIO9SWo?usp=share_link)
-
-
 
 ##  Program
 
