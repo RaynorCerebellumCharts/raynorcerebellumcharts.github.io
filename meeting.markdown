@@ -8,6 +8,15 @@ permalink: /meeting/
 
 We are excited to announce the kick-off meeting of the Cerebellum Brain Charts for Development and Ageing project. The meeting will take place in Rotterdam, Netherlands from April 22nd to 25th, 2024. and be hosted by the Erasmus University Medical Center.
 
+# Important Information!
+
+### Contacts
+***Please contact Ryan Muetzel (r.muetzel@erasmusmc.nl) or Mascha Joustra (m.joustra@erasmusmc.nl) if you have any questions***
+
+### A google drive with useful information can be found [here](https://drive.google.com/drive/folders/1atA4N0wxGO_lveZtgQ5P41dzetIO9SWo?usp=share_link)
+
+
+
 ##  Program
 
 ## Day 1 & 2 : April 22nd - April 23nd
@@ -133,22 +142,13 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 The second two days are reserved for the core development team to perform a requirements analysis, make decision on project design, build work-groups, and set concrete goals and milestones. 
 
-# Important Information!
-
-## Contacts
-***Please contact Ryan Muetzel (r.muetzel@erasmusmc.nl) or Mascha Joustra (m.joustra@erasmusmc.nl) if you have any questions***
-
-## A google drive with useful information can be found [here](https://drive.google.com/drive/folders/1atA4N0wxGO_lveZtgQ5P41dzetIO9SWo?usp=share_link)
-
-
-
 
 ## Useful links 
 
 ***Hotel:***
 [**The Bilderberg**](https://www.bilderberg.nl/rotterdam/parkhotel-rotterdam/?gad_source=1&gclid=Cj0KCQjwk6SwBhDPARIsAJ59GweYJkZfFLxgp_gkx68tNO-EsbYh8WrbTk9fw7dGhyQJGAILiObFzn4aAjPAEALw_wcB)
 
-## Travel information
+**Travel information**
 [**Schiphol Airport (Amsterdam)**](https://www.schiphol.nl/en)
 
 [**Rotterdam / The Hague Airport**](https://www.rotterdamthehagueairport.nl/parkeren/?gclid=CjwKCAiAq4KuBhA6EiwArMAw1NErmZv2rgImTr3OkDzulnqIjLc2JmIDeAf4cbkKjtW0qmjcmj20vxoCjdYQAvD_BwE)
@@ -160,6 +160,5 @@ The second two days are reserved for the core development team to perform a requ
 [**Rotterdam Public Transport**](https://9292.nl/en)
 
 **The Erasmus Medical Center**
-
 https://www.erasmusmc.nl/en/contact-details-and-directions
 
