@@ -133,24 +133,25 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 The second two days are reserved for the core development team to perform a requirements analysis, make decision on project design, build work-groups, and set concrete goals and milestones. 
 
-## Venue & Accommodation
+# Important Information!
 
-***Please contact Ryan Muetzel (r.muetzel@erasmusmc.nl) or Mascha Joustra (m.joustra@erasmusmc.nl) if you have any questions regarding your hotel accomodations***
+## Contacts
+***Please contact Ryan Muetzel (r.muetzel@erasmusmc.nl) or Mascha Joustra (m.joustra@erasmusmc.nl) if you have any questions***
+
+## A google drive with useful information can be found [here](https://drive.google.com/drive/folders/1atA4N0wxGO_lveZtgQ5P41dzetIO9SWo?usp=share_link)
+
+
+
+
+## Useful links 
 
 ***Hotel:***
 [**The Bilderberg**](https://www.bilderberg.nl/rotterdam/parkhotel-rotterdam/?gad_source=1&gclid=Cj0KCQjwk6SwBhDPARIsAJ59GweYJkZfFLxgp_gkx68tNO-EsbYh8WrbTk9fw7dGhyQJGAILiObFzn4aAjPAEALw_wcB)
 
-
-
-
 ## Travel information
-
 [**Schiphol Airport (Amsterdam)**](https://www.schiphol.nl/en)
 
-
-
 [**Rotterdam / The Hague Airport**](https://www.rotterdamthehagueairport.nl/parkeren/?gclid=CjwKCAiAq4KuBhA6EiwArMAw1NErmZv2rgImTr3OkDzulnqIjLc2JmIDeAf4cbkKjtW0qmjcmj20vxoCjdYQAvD_BwE)
-
 
 [**Eindhoven Aiport**](https://www.eindhovenairport.nl/en)
 
@@ -161,9 +162,4 @@ The second two days are reserved for the core development team to perform a requ
 **The Erasmus Medical Center**
 
 https://www.erasmusmc.nl/en/contact-details-and-directions
-
-
-<DIRECTIONS> 
-
-
 
