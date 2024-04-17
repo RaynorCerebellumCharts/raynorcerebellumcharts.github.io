@@ -95,7 +95,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 #### 18:00 - Workshop Dinner with speakers
 
 ### Tuesday (April 23, 2023):
-### Location: Bilderberg Hotel Rotterdam
+### Location: [Bilderberg Hotel Rotterdam](https://www.bilderberg.nl/rotterdam/parkhotel-rotterdam/)
 #### Part IV: Childhood and adolescent cerebellar imaging
 
 ***9:45 - Arrival / Coffee & Tea***
