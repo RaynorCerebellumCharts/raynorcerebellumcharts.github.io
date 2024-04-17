@@ -21,7 +21,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 
 ### Monday (April 22, 2023):
-### Location: Erasmus MC Educational Center 
+### Location: Erasmus MC Educational Center [OWR23](https://docs.google.com/document/d/1KV4qhkCm9aG-rslAImIEtPXYTgGXlbm-Ebe0LGQxqQ8/edit?usp=sharing)
 
 ***9:00 - Arrival / Coffee & Tea***
 
