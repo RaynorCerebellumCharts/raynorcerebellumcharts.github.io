@@ -75,9 +75,10 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 ***14:30: - Automated cerebellar segmentation:  Volumetric readouts for individual trajectories and perspectives at 7T***
 
+#### Virtual Session Via MS Teams:  [Join Here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjY4NzgzYWUtOTk4ZC00YzNhLTgzNzAtNDY2OTA0MTg5NTJk%40thread.v2/0?context=%7b%22Tid%22%3a%22526638ba-6af3-4b0f-a532-a1a511f4ac80%22%2c%22Oid%22%3a%221963977f-3b1c-491d-bf81-a9081d9415fb%22%7d)
+
 &nbsp;&nbsp;&nbsp;&nbsp; Jennifer Faber
 
-***Virtual Session: [MS Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjY4NzgzYWUtOTk4ZC00YzNhLTgzNzAtNDY2OTA0MTg5NTJk%40thread.v2/0?context=%7b%22Tid%22%3a%22526638ba-6af3-4b0f-a532-a1a511f4ac80%22%2c%22Oid%22%3a%221963977f-3b1c-491d-bf81-a9081d9415fb%22%7d)***
 
 ***15:00 - Discussion***
 
@@ -135,8 +136,6 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 ***18:00 - 19:30***
 &nbsp;&nbsp;&nbsp;&nbsp; [Steve Miller](https://bcchr.ca/spmiller), Jessie Guo    
-
-***Virtual Session: ***
 
 ## Day 3 & 4: April 24th - April 25th: Core Team Project Meeting
 #### Location: Erasmus MC KJPP 2814
