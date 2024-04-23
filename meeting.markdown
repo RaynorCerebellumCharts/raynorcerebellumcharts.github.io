@@ -132,7 +132,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 #### Part Vb: Virtual Evening Session on Neonatal Imaging 
 
-#### ***Virtual Session Via MS Teams:  [Join Here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzI5ODgxNDctNzJmMC00YjFmLWFjZWItYWUxZTIxZjMyNzM2%40thread.v2/0?context=%7b%22Tid%22%3a%22526638ba-6af3-4b0f-a532-a1a511f4ac80%22%2c%22Oid%22%3a%221963977f-3b1c-491d-bf81-a9081d9415fb%22%7d)
+#### ***Virtual Session Via MS Teams:  [Join Here](https://teams.microsoft.com/l/meetup-join/19:meeting_MzI5ODgxNDctNzJmMC00YjFmLWFjZWItYWUxZTIxZjMyNzM2@thread.v2/0?context=%7B%22Tid%22:%22526638ba-6af3-4b0f-a532-a1a511f4ac80%22,%22Oid%22:%221963977f-3b1c-491d-bf81-a9081d9415fb%22%7D)
 
 ***18:00 - 19:30***
 &nbsp;&nbsp;&nbsp;&nbsp; [Steve Miller](https://bcchr.ca/spmiller), Jessie Guo    
