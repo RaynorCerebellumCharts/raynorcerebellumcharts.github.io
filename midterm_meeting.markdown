@@ -49,7 +49,7 @@ To be arranged
 
 ## Program elements
 
-*** Update on Raynor Cerebellar Growth Chart Project***
+***Update on Raynor Cerebellar Growth Chart Project***
 
 * Overview: Jörn Diedrichsen
 * New Isolation algorithm: Yao Li, Carlos Hernandez
@@ -59,23 +59,23 @@ To be arranged
 * First clinical applications: Ryan Muetzel, Andre Marquand
 * Discussion of challenges, opportunities, and future directions
 
-*** Discussion: Applications to premature birth ***
+***Discussion: Applications to premature birth***
 
 * Overview: Clinical questions and opportunities: Jessie Guo, Steven Miller
 * Premature birth from a imaging analysis / normative model perspective
 
-*** Update on 7T Cerebellar Coil developement ***
+***Update on 7T Cerebellar Coil developement***
 
 * Overview: Anke Hennig and Ravi Menon
 * Technical coil development: Bei Zheng and Kyle Gilbert
 * Site visit of 7T imaging faciltiies - demonstration of the coil (?)
 
-*** Discussion: Opportunities of high-field measures for cerebellar development ***
+***Discussion: Opportunities of high-field measures for cerebellar development***
 
 * Anatomical: Partial volumes, Micro-structural imaging
 * Functional: Imaging deep structures
 * What is a reasonable strategy for collaborative projects with the new coil?
 
-*** Discussion of Scientific Board with each of the project leads ***
+***Discussion of Scientific Board with each of the project leads***
 
-*** Workgroups of next program steps ***
+***Workgroups of next program steps***
