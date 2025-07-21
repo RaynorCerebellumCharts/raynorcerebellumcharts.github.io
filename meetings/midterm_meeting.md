@@ -79,3 +79,6 @@ To be arranged
 ***Discussion of Scientific Board with each of the project leads***
 
 ***Workgroups of next program steps***
+
+[See related Research Projects, Talks, and Publications »](/meetings/midterm_research/)
+
