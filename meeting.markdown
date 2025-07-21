@@ -8,20 +8,30 @@ permalink: /meeting/
 
 We are excited to announce the kick-off meeting of the Cerebellum Brain Charts for Development and Ageing project. The meeting will take place in Rotterdam, Netherlands from April 22nd to 25th, 2024. and be hosted by the Erasmus University Medical Center.
 
-## Preliminary Program
+### Important information
+A google drive with useful information can be found [here](https://drive.google.com/drive/folders/1atA4N0wxGO_lveZtgQ5P41dzetIO9SWo?usp=share_link)
+
+# Contacts
+***Please contact Ryan Muetzel (r.muetzel@erasmusmc.nl) or Mascha Joustra (m.joustra@erasmusmc.nl) if you have any questions***
+
+##  Program
 
 ## Day 1 & 2 : April 22nd - April 23nd
 The first two days will be dedicated to talks from collaborators and invited speakers, who will highlight the key challenges and opportunities in the field, mainly from a clinical perspective. The workshop will be highly interactive, providing ample of opportunities for discussion possible collaborative project.
 
 
 ### Monday (April 22, 2023):
+### Location: Erasmus MC Educational Center [OWR23](https://docs.google.com/document/d/1KV4qhkCm9aG-rslAImIEtPXYTgGXlbm-Ebe0LGQxqQ8/edit?usp=sharing)
+
+***9:00 - Arrival / Coffee & Tea***
+
 #### Part I: Introduction & Aim (morning program)
 
-***Introduction to the workshop / project*** 
+***9:30 - Introduction to the workshop / project***
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Joern Diedrichsen](https://diedrichsenlab.org), [Ryan Muetzel](https://ipni.nl/people/) & [Andre Marquand](https://www.ru.nl/en/people/marquand-a)
 
-***Raynor Cerebellar Project Board: Introduction to the Raynor Cerebellum Project*** 
+***9:45 - Raynor Cerebellar Project Board: Introduction to the Raynor Cerebellum Project***
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Adam Hantman, Roy Sillitoe, Stephen Lisberger](https://raynorcerebellumproject.org/our-team-2/)
 
@@ -29,7 +39,7 @@ The first two days will be dedicated to talks from collaborators and invited spe
 #### Part II: Novel cerebellar (parcellation) methods
 
 
-***Data-driven decomposition of cerebellar grey matter maps reveals highly reproducible structural covariance patterns***
+***10:00 - Data-driven decomposition of cerebellar grey matter maps reveals highly reproducible structural covariance patterns.***
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Torgeir Moberget](https://ous-research.no/home/brain-plasticity/Group+members/17879)
 
@@ -37,85 +47,114 @@ The first two days will be dedicated to talks from collaborators and invited spe
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Milin Kim](https://scholar.google.com/citations?user=AFKkkOEAAAAJ&hl=en)
 
-***Unsupervised Anomaly Detection for Principled Heterogeneity Mapping***
+***10:30 - Mapping Cerebellar Anatomical Heterogeneity in Mental and Neurological Illnesses.***
+
+&nbsp;&nbsp;&nbsp;&nbsp; [Millin Kim]
+
+
+***10:50 - Unsupervised Anomaly Detection for Principled Heterogeneity Mapping***
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Thomas Wolfers](https://www.thomaswolfers.com)
 
+***11:10 - Break - Coffee & Tea***
 
-***Functional Parcellation of the cerebellum:  The Multidomain task battery***
+***11:30 - Discussion***
 
-&nbsp;&nbsp;&nbsp;&nbsp; [Carolin Nettekoven](https://www.caroline-nettekoven.com)
+***12:00 - Lunch***
 
+***13:00 - Navigating the cerebellum: Localizing functional regions using fMRI***
+
+&nbsp;&nbsp;&nbsp;&nbsp; [Caroline Nettekoven](https://www.caroline-nettekoven.com)
+
+***13:30 - Discussion***
 
 #### Part III: Clinical Perspectives in Adult Cerebellar Disorders (afternoon program)
 
+***13:50 - Can neuroimaging serve trial readiness in cerebellar ataxias?***
 
-***Can neuroimaging serve trial readiness in cerebellar ataxias?***
+&nbsp;&nbsp;&nbsp;&nbsp; [Bart van de Warrenburg](https://www.radboudumc.nl/en/people/bart-van-de-warrenburg)
 
+***14:10 - Discussion***
 
-&nbsp;&nbsp;&nbsp;&nbsp; [Bart van der Warrenburg](https://www.radboudumc.nl/en/news/2020/a-personal-glimpse-of-bart-van-de-warrenburg) 
+***14:30: - Automated cerebellar segmentation:  Volumetric readouts for individual trajectories and perspectives at 7T***
 
-
-***(Title TBD)***
+####    ***Virtual Session Via MS Teams:  [Join Here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjY4NzgzYWUtOTk4ZC00YzNhLTgzNzAtNDY2OTA0MTg5NTJk%40thread.v2/0?context=%7b%22Tid%22%3a%22526638ba-6af3-4b0f-a532-a1a511f4ac80%22%2c%22Oid%22%3a%221963977f-3b1c-491d-bf81-a9081d9415fb%22%7d)
 
 &nbsp;&nbsp;&nbsp;&nbsp; Jennifer Faber
 
 
-***(Title TBD)***
+***15:00 - Discussion***
 
-&nbsp;&nbsp;&nbsp;&nbsp; Dagmar Timann 
+***15:20 - Break - Coffee & Tea***
 
-#### Concluding Remarks / Wrap-up
+***15:40 - Structural MRI of the cerebellar nuclei in health and disease (ataxias)***
 
-#### Workshop Dinner with speakers
+&nbsp;&nbsp;&nbsp;&nbsp; Dagmar Timann & Andreas Diestung
+
+***16:10 - Discussion***
+
+***16:30 - Concluding Remarks / Wrap-up***
+
+#### 18:00 - Workshop Dinner with speakers
 
 ### Tuesday (April 23, 2023):
+### Location: [Bilderberg Hotel Rotterdam](https://www.bilderberg.nl/rotterdam/parkhotel-rotterdam/)
 #### Part IV: Childhood and adolescent cerebellar imaging
 
-***(Title TBD)***
+***9:45 - Arrival / Coffee & Tea***
 
+***10:15 - The multifaceted cerebellum: early-life development, evolution, and large-scale meta-analyses***
 
 &nbsp;&nbsp;&nbsp;&nbsp;  [Sofie Valk, Aikaterina Manoli, and Neville Magielse](https://cng-lab.github.io)
 
-***Child and Adolescent cerebellar development: a population-based perspective***
+***11:25 - Discussion***
 
-&nbsp;&nbsp;&nbsp;&nbsp;  [Caroline Gaiser](https://neuro.nl/person/Carolin-Gaiser)
+**11:45 - Wrap up Morning***
 
+***12:00 - Lunch (Bilderburg)***
 
---- Lunch ---
-#### Part Va: Neonatal imaging and developement 
+***13:00 - Child and Adolescent cerebellar development: a population-based perspective***
 
-***(Title TBD)***
+&nbsp;&nbsp;&nbsp;&nbsp;  [Carolin Gaiser](https://neuro.nl/person/Carolin-Gaiser)
 
-&nbsp;&nbsp;&nbsp;&nbsp; [Manon Benders](https://www.umcutrecht.nl/en/research/researchers/benders-manon-mjnl)
+***13:30 - Discussion***
 
-#### Open discussion on collaborative projects
+#### Part Va: Neonatal imaging and developement
 
-#### Dinner
+***13:45 - Injury and Imaging of the neonatal cerebellum***
 
-#### Part Vb: Virtual Evening Session on Neonatal Imaging 
-#### 6pm- 7:30pm Via Zoom
+&nbsp;&nbsp;&nbsp;&nbsp; [Jeroen Dudink](https://www.umcutrecht.nl/en/research/researchers/dudink-jeroen-j) & [Manon Benders](https://www.umcutrecht.nl/en/research/researchers/benders-manon-mjnl)
 
-&nbsp;&nbsp;&nbsp;&nbsp; [Steve Miller](https://www.sickkids.ca/en/staff/m/steven-miller/), Jessie Guo    
+***14:15 - Discussion***
 
+***14:30 - Break - Coffee & Tea***
+
+***14:45 Open discussion on collaborative projects***
+
+***17:00 Walking Dinner / Buffet***
+
+#### Part Vb: Virtual Evening Session on Neonatal Imaging
+
+#### ***Virtual Session Via MS Teams:  [Join Here](https://teams.microsoft.com/l/meetup-join/19:meeting_MzI5ODgxNDctNzJmMC00YjFmLWFjZWItYWUxZTIxZjMyNzM2@thread.v2/0?context=%7B%22Tid%22:%22526638ba-6af3-4b0f-a532-a1a511f4ac80%22,%22Oid%22:%221963977f-3b1c-491d-bf81-a9081d9415fb%22%7D)
+
+***18:00 - 19:30***
+&nbsp;&nbsp;&nbsp;&nbsp; [Steve Miller](https://bcchr.ca/spmiller), Jessie Guo
 
 ## Day 3 & 4: April 24th - April 25th: Core Team Project Meeting
 #### Location: Erasmus MC KJPP 2814
 
-The second two days are reserved for the core development team to perform a requirements analysis, make decision on project design, build work-groups, and set concrete goals and milestones. 
+The second two days are reserved for the core development team to perform a requirements analysis, make decision on project design, build work-groups, and set concrete goals and milestones.
 
-## Venue & Accommodation
 
-More information will follow soon...
+## Useful links
 
-## Travel information
+***Hotel:***
+[**The Bilderberg**](https://www.bilderberg.nl/rotterdam/parkhotel-rotterdam/?gad_source=1&gclid=Cj0KCQjwk6SwBhDPARIsAJ59GweYJkZfFLxgp_gkx68tNO-EsbYh8WrbTk9fw7dGhyQJGAILiObFzn4aAjPAEALw_wcB)
 
+**Travel information**
 [**Schiphol Airport (Amsterdam)**](https://www.schiphol.nl/en)
 
-
-
 [**Rotterdam / The Hague Airport**](https://www.rotterdamthehagueairport.nl/parkeren/?gclid=CjwKCAiAq4KuBhA6EiwArMAw1NErmZv2rgImTr3OkDzulnqIjLc2JmIDeAf4cbkKjtW0qmjcmj20vxoCjdYQAvD_BwE)
-
 
 [**Eindhoven Aiport**](https://www.eindhovenairport.nl/en)
 
@@ -124,11 +163,5 @@ More information will follow soon...
 [**Rotterdam Public Transport**](https://9292.nl/en)
 
 **The Erasmus Medical Center**
-
 https://www.erasmusmc.nl/en/contact-details-and-directions
-
-
-<DIRECTIONS> 
-
-
 
