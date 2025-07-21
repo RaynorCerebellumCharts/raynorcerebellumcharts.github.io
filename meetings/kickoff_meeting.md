@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kick-off meetings
-permalink: /kick-off/
+permalink: /meetings/kickoff_meeting/
 ---
 
 # Kick-off Meeting Rotterdam April 22-25th 2024

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Midterm Meeting
-permalink: /midterm/
+permalink: /meetings/midterm_meeting/
 ---
 
 # Midterm Meeting LondOn, October 27th-28th 2025

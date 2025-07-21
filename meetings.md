@@ -6,9 +6,6 @@ permalink: /meetings/
 
 # Meetings
 
-Here are our meeting notes:
 
-- Kick-off Meeting
-  - [View Notes]({{ '/kickoff_meeting/' | relative_url }})
-- Midterm Meeting
-  - [View Notes]({{ '/midterm_meeting/' | relative_url }})
+- [Kick-off Meeting]({{ '/meetings/kickoff_meeting/' | relative_url }}) April 22-25th 2024
+- [Midterm Meeting]({{ '/meetings/midterm_meeting/' | relative_url }}) October 27th-28th 2025
