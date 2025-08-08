@@ -12,7 +12,7 @@ The Midterm meeting of the Raynor Cerebellum Brain Chart and 7T Coil development
 Schmeichel Entrepreneurship and Innovation Centre, Room, 1110 [Google Maps](https://www.google.com/maps/place/Ronald+D.+Schmeichel+Building+for+Entrepreneurship+and+Innovation/@43.007355,-81.2799882,16z/data=!4m6!3m5!1s0x882eefbcb4e0ae1d:0xe737f47c98e72df9!8m2!3d43.0073324!4d-81.2766097!16s%2Fg%2F11kbywxhs3!5m1!1e4?hl=en-US&entry=ttu&g_ep=EgoyMDI1MDcxNi4wIKXMDSoASAFQAw%3D%3D)
 
 ### Travel arrangements
-The closest airport is London International Airport (YXU), which is about 15 minutes by car from the venue with connections to Toronto and Calgary. A good alternative it to fly directly to Toronto (YYZ) and we can arrange a shuttle bus to pick you up (approximately 2hr journey).
+The closest airport is London International Airport (YXU), which is about 15 minutes by car from the venue with connections to Toronto and Calgary. A good alternative is to fly directly to Toronto (YYZ) and we can arrange a shuttle bus to pick you up (approximately 2hr journey).
 
 ### Hotel
 Once your travel is booked, please let us (diedrichsenlab@gmail.com) know your arrival and departure dates, so we make the hotel reservations for you.
