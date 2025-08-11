@@ -26,13 +26,6 @@ Schmeichel Entrepreneurship and Innovation Centre, Room, 1110
 
 ***9:00 - Arrival / Coffee & Tea***
 
-***9:30 - Welcome and Introduction by University Project lead***
-
-***9:40 - Raynor Cerebellar Project Board: Introduction to the Raynor Cerebellum Project***
-
-&nbsp;&nbsp;&nbsp;&nbsp; [Adam Hantman, Roy Sillitoe, Stephen Lisberger](https://raynorcerebellumproject.org/our-team-2/)
-
-
 ***Program (see below)***
 
 #### 18:00 - Workshop Dinner
@@ -51,34 +44,35 @@ To be arranged
 
 ***Update on Raynor Cerebellar Growth Chart Project***
 
-* Overview: Jörn Diedrichsen
-* New Isolation algorithm: Yao Li, Carlos Hernandez
-* Normalization and measures: Yaping Wang
-* Normative models: Andre Marquand - with focus on longtitudinal data (?)
-* Practical demonstration
-* First clinical applications: Ryan Muetzel, Andre Marquand
-* Discussion of challenges, opportunities, and future directions
+* Overview (Jörn Diedrichsen)
+* New Isolation algorithm (Yao Li, Carlos Hernandez)
+* Normalization and measures (Yaping Wang)
+* Normative models (Andre Marquand)
+* Normative model with longitudinal data (Johanna)
+* First clinical applications (Ryan Muetzel, Andre Marquand, etc...)
 
 ***Discussion: Applications to premature birth***
 
-* Overview: Clinical questions and opportunities: Jessie Guo, Steven Miller
-* Premature birth from a imaging analysis / normative model perspective
+* Clinical questions and opportunities: Jessie Guo, Steven Miller
+* Generation R prematurity (Ryan Muetzel)
+
+***Next steps for Growth chart project***
+* Finalizing / disseminating the tool pipeline and normative model
+* Premature birth from a imaging analysis
+* Other clinical applications
 
 ***Update on 7T Cerebellar Coil developement***
 
-* Overview: Anke Hennig and Ravi Menon
-* Technical coil development: Bei Zheng and Kyle Gilbert
-* Site visit of 7T imaging faciltiies - demonstration of the coil (?)
+* Overview (Anke Hennig and Ravi Menon)
+* Technical coil development (Bei Zheng and Kyle Gilbert)
+* Site visit of 7T imaging facilties - demonstration of the coil
 
-***Discussion: Opportunities of high-field measures for cerebellar development***
+***Discussion: Future opportunities of high-field measures for cerebellar development***
 
 * Anatomical: Partial volumes, Micro-structural imaging
 * Functional: Imaging deep structures
 * What is a reasonable strategy for collaborative projects with the new coil?
 
-***Discussion of Scientific Board with each of the project leads***
-
-***Workgroups of next program steps***
 
 [See related Research Projects, Talks, and Publications »](/meetings/midterm_research/)
 
