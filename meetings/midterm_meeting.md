@@ -15,7 +15,12 @@ Schmeichel Entrepreneurship and Innovation Centre, Room, 1110 [Google Maps](http
 The closest airport is London International Airport (YXU), which is about 15 minutes by car from the venue with connections to Toronto and Calgary. A good alternative is to fly directly to Toronto (YYZ) and we can arrange a shuttle bus to pick you up (approximately 2hr journey).
 
 ### Hotel
-Once your travel is booked, please let us (diedrichsenlab@gmail.com) know your arrival and departure dates, so we make the hotel reservations for you.
+For accomodation, here are three recommendations: 
+1. Ivy Spencer Leadership Center: Closest to Campus - [Link](https://hotels.app.link/U0ye5VhvoWb)
+2. Hotel Metro: Botique, city center - [Link](https://hotels.app.link/3cct9MpvoWb)
+3. Park Hotel: In town, close to campus - [Link](https://hotels.app.link/4CObwvdwoWb)
+
+If you want us to book a room for you, please email diedrichsenlab@gmail.com.
 
 ### Contacts
 Please contact Bassel Arafat (diedrichsenlab@gmail.com) or Jörn Diedrichsen (jdiedric@uwo.ca) if you have any questions about travel, hotel, or program.
