@@ -29,55 +29,51 @@ Please contact Bassel Arafat (diedrichsenlab@gmail.com) or Jörn Diedrichsen (jd
 ### Monday (October 27th, 2025):
 Schmeichel Entrepreneurship and Innovation Centre, Room, 1110
 
-***9:00 - Arrival / Coffee & Tea***
+* 8:00 - Arrival, Welcome, Breakfast
+* 9:00 - Welcome by the VPR office
+* 9:10 - Overview over the Cerebellar Growth Chart Project 
+  * 9:25 New Isolation algorithm (Yao Li, Carlos Hernandez): 10min Talk, 5min Questions
+  * 9:40  Voxel-based measures (Yaping Wang): 15min Talk, 5min Questions
+* 10:00 - Coffee
+* 10:30 - Overview over normative model developement (Andre Marquand)
+  * 10:40 - Crosssection normative modelling  (Andre): 15min Talk, 5min Questions
+  * 11:00 - Normative model with longitudinal data (Johanna): 15min Talk, 5min Questions
+* 11:20 - Overview over first clinical applications (Ryan Muetzel) 
+  * 11:30 - Clinical application 1 (Bing Xu): 15min Talk, 5min Questions
+  * 11:50 - Clinical application 2 (TBD): 15min Talk, 5min Questions
+* 12:30 - Lunch (Scientific Board meets with Trainees) 
 
-***Program (see below)***
-
-#### 18:00 - Workshop Dinner
-To be arranged
-
+* 14:00 Next steps 1: Opportunities and plans for studying cerebellar developement after premature birth
+  * Discussion opener (Steven Miller, Jessie Guo, Weilli Lin): ~15min
+  * Open discussion: 45min
+* 15:00 Coffee break and time for informal interactions 
+* 15:40 Next steps 2: Opportunities and plans for other clinical studies (Autism, Spino-cerebellar Ataxia, ...) 
+  * Discussion opener (Ryan Muetzel, Mallar Chakravarti): ~15min
+  * Open discussion: 45min 
+* 16:40 Break 
+* 17:00 Meeting of Scientific board with Project lead (Growth chart)
+* 18:30 - Workshop Dinner with all External Guests
 
 ### Tuesday (October 28th, 2025):
-***9:00 - Arrival / Coffee & Tea***
+Schmeichel Entrepreneurship and Innovation Centre, Room, 1110
 
-***Program (see below)***
+* 8:00 Arrival, Welcome, Breakfast
+* 9:00 Next steps 3 : Bringing growth chart models into the clinic 
+  * Discussion opener (Ryan Muetzel, Mallar Chakravarti): ~15min
+  * Open discussion: 45min 
+* 10:00 - Coffee
+* 10:20  Overview over the 7T Coil developement project (Anke Hennig and Ravi Menon): 30min
+* 10:50  7T coil developement techinical details (Bei Zheng and Kyle Gilbert)
+* 11:30  Deployment and availability (Anke Hennig and Ravi Menon): 15min
+* 11:40  Discussion 
+* 12:00  Lunch 
+* 13:00  Site visit of 7T imaging facilties and demonstration of MR coil (potential: Marmoset facility) 
+* 14:30 Coffee break and time for informal interactions 
 
-#### 18:00 - Drinks and dinner
-To be arranged
+* 15:00 Next steps: Opportunities for studying the cerebellum with 7T imaging 
+  * Discussion opener (Menon, Baron, Diedrichsen): 
+  * Open Discussion
+* 16:00 Meeting of Scientific board with Project lead (7T coil) 
 
-## Program elements
-
-***Update on Raynor Cerebellar Growth Chart Project***
-
-* Overview (Jörn Diedrichsen)
-* New Isolation algorithm (Yao Li, Carlos Hernandez)
-* Normalization and measures (Yaping Wang)
-* Normative models (Andre Marquand)
-* Normative model with longitudinal data (Johanna)
-* First clinical applications (Ryan Muetzel, Andre Marquand, etc...)
-
-***Discussion: Applications to premature birth***
-
-* Clinical questions and opportunities: Jessie Guo, Steven Miller
-* Generation R prematurity (Ryan Muetzel)
-
-***Next steps for Growth chart project***
-* Finalizing / disseminating the tool pipeline and normative model
-* Premature birth from a imaging analysis
-* Other clinical applications
-
-***Update on 7T Cerebellar Coil developement***
-
-* Overview (Anke Hennig and Ravi Menon)
-* Technical coil development (Bei Zheng and Kyle Gilbert)
-* Site visit of 7T imaging facilties - demonstration of the coil
-
-***Discussion: Future opportunities of high-field measures for cerebellar development***
-
-* Anatomical: Partial volumes, Micro-structural imaging
-* Functional: Imaging deep structures
-* What is a reasonable strategy for collaborative projects with the new coil?
-
-
-[See related Research Projects, Talks, and Publications »](/meetings/midterm_research/)
+ Dinner to be arranged with guest staying until Wednesday. 
 
