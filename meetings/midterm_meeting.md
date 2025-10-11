@@ -44,7 +44,7 @@ For any questions about travel, hotel, or the program, please contact:
 | 10:00| **Coffee Break** | |
 | 10:30| **Overview: Normative Model Development** | **Andre Marquand** |
 | 10:40| Cross-section normative modelling (15 min Talk, 5 min Q&A) | **Andre Marquand** |
-| 11:00| Normative model with longitudinal data (15 min Talk, 5 min Q&A) | **Johanna** |
+| 11:00| Normative model with longitudinal data (15 min Talk, 5 min Q&A) | **Johanna Bayer** |
 | 11:20| **Overview: First Clinical Applications** | **Ryan Muetzel** |
 | 11:30| Clinical application 1 (15 min Talk, 5 min Q&A) | **Bing Xu** |
 | 11:50| Clinical application 2 (15 min Talk, 5 min Q&A) | **TBD** |
