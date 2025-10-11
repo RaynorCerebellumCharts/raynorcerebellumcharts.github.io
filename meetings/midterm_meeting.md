@@ -37,8 +37,8 @@ For any questions about travel, hotel, or the program, please contact:
 | Time | Title | Speakers / Details|
 | :--- | :--- | :--- |
 | 8:00 | **Arrival & Breakfast** |  |
-| 9:00 | **Welcome by the VPR office** | |
-| 9:10 | **Overview: Cerebellar Growth Chart Project** | |
+| 9:00 | **Welcome by the VPR office** | **Alison Allan, AVpr**|
+| 9:10 | **Overview: Cerebellar Growth Chart Project** | **Jörn Diedrichsen**|
 | 9:25 | New Isolation algorithm (10 min Talk, 5 min Q&A) | **Yao Li, Carlos Hernandez** |
 | 9:40 | Voxel-based measures (15 min Talk, 5 min Q&A) | **Yaping Wang** |
 | 10:00| **Coffee Break** | |
@@ -49,9 +49,10 @@ For any questions about travel, hotel, or the program, please contact:
 | 11:30| Clinical application 1 (15 min Talk, 5 min Q&A) | **Bing Xu** |
 | 11:50| Clinical application 2 (15 min Talk, 5 min Q&A) | **TBD** |
 | 12:30| **Lunch** | *Scientific Board meets with Trainees* |
-| 14:00| **Next Steps 1:** <br>Cerebellar development after premature birth|**Opener:** **Steven Miller, Jessie Guo, Weilli Lin** (~15 min)<br>**Open Discussion:** 45 min |
-| 15:00| **Coffee Break** | *Time for informal interactions* |
-| 15:40| **Next Steps 2:** <br>Other clinical studies (Autism, Spino-cerebellar Ataxia, ...)|**Opener:** **Ryan Muetzel, Mallar Chakravarti** (~15 min)<br>**Open Discussion:** 45 min |
+| 14:00| Early-Life Clinical Factors Related to Cerebellar Structure and Function in Preterm Children (15 min Talk, 5 min Q&A) | **Victoria Rapos** |
+| 14:15| **Next Steps 1:** <br>Cerebellar development after premature birth|**Opener:** **Steven Miller, Jessie Guo** (~15 min)<br>**Open Discussion:** 45 min |
+| 15:15| **Coffee Break** | *Time for informal interactions* |
+| 15:50| **Next Steps 2:** <br>Other clinical studies (Autism, Spino-cerebellar Ataxia, ...)|**Opener:** **Ryan Muetzel, Mallar Chakravarti** (~15 min)<br>**Open Discussion:** 30 min |
 | 16:40| **Break** | |
 | 17:00| **Meeting** | Scientific board with Project lead (Growth chart) |
 | 18:30| **Workshop Dinner** | *With all External Guests* |
