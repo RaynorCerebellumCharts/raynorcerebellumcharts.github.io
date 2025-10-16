@@ -39,20 +39,20 @@ For any questions about travel, hotel, or the program, please contact:
 | 8:00 | **Arrival & Breakfast** |  |
 | 9:00 | **Welcome by the VPR office** | **Alison Allan, AVpr**|
 | 9:10 | **Overview: Cerebellar Growth Chart Project** | **Jörn Diedrichsen**|
-| 9:25 | New Isolation algorithm (10 min Talk, 5 min Q&A) | **Yao Li, Carlos Hernandez** |
+| 9:20 | New Isolation algorithm (15 min Talk, 5 min Q&A) | **Yao Li, Carlos Hernandez** |
 | 9:40 | Voxel-based measures (15 min Talk, 5 min Q&A) | **Yaping Wang** |
 | 10:00| **Coffee Break** | |
 | 10:30| **Overview: Normative Model Development** | **Andre Marquand** |
 | 10:40| Cross-section normative modelling (15 min Talk, 5 min Q&A) | **Andre Marquand** |
 | 11:00| Normative model with longitudinal data (15 min Talk, 5 min Q&A) | **Johanna Bayer** |
 | 11:20| **Overview: First Clinical Applications** | **Ryan Muetzel** |
-| 11:30| Clinical application 1 (15 min Talk, 5 min Q&A) | **Bing Xu** |
-| 11:50| Clinical application 2 (15 min Talk, 5 min Q&A) | **TBD** |
+| 11:30| Predicting cerebellar growth from perinatal factors  (15 min Talk, 5 min Q&A) | **Bing Xu** |
+| 11:50| Cerebellum as driver of neocortical maturation (15 min Talk, 5 min Q&A) | **Caroline Gaiser** |
 | 12:30| **Lunch** | *Scientific Board meets with Trainees* |
 | 14:00| Early-Life Clinical Factors Related to Cerebellar Structure and Function in Preterm Children (15 min Talk, 5 min Q&A) | **Victoria Rapos** |
 | 14:15| **Next Steps 1:** <br>Cerebellar development after premature birth|**Opener:** **Steven Miller, Jessie Guo** (~15 min)<br>**Open Discussion:** 45 min |
 | 15:15| **Coffee Break** | *Time for informal interactions* |
-| 15:50| **Next Steps 2:** <br>Other clinical studies (Autism, Spino-cerebellar Ataxia, ...)|**Opener:** **Ryan Muetzel, Mallar Chakravarti** (~15 min)<br>**Open Discussion:** 30 min |
+| 15:50| **Next Steps 2:** <br>Other clinical studies (Autism, Spino-cerebellar Ataxia, ...)|**Opener:** **Ryan Muetzel and Matt Park** (~15 min)<br>**Open Discussion:** 30 min |
 | 16:40| **Break** | |
 | 17:00| **Meeting** | Scientific board with Project lead (Growth chart) |
 | 18:30| **Workshop Dinner** | *With all External Guests* |
@@ -63,7 +63,7 @@ For any questions about travel, hotel, or the program, please contact:
 | Time | Activity | Details / Speakers |
 | :--- | :--- | :--- |
 | 8:00 | **Arrival & Breakfast** |  |
-| 9:00 | **Next steps 3:**<br>Bringing growth chart models into the clinic| **Opener:** **Ryan Muetzel, Mallar Chakravarti** (~15 min)<br>**Open Discussion:** 45 min |
+| 9:00 | **Next steps 3:**<br>Bringing growth chart models into the clinic| **Opener:** **Ryan Muetzel** (~15 min)<br>**Open Discussion:** 45 min |
 | 10:00| **Coffee Break** | |
 | 10:20| **Overview: 7T Coil Development** | **Anke Hennig, Ravi Menon** (30 min) |
 | 10:50| 7T coil development technical details | **Bei Zheng, Kyle Gilbert** |
