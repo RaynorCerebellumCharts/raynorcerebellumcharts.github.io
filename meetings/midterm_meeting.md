@@ -9,22 +9,37 @@ permalink: /meetings/midterm_meeting/
 The Midterm meeting of the Raynor Cerebellum Brain Chart and 7T Coil development project will be held in London, Ontario, Canada from October 27th to 28th, 2025, hosted by Western University.
 
 ### Venue
-Schmeichel Entrepreneurship and Innovation Centre, Room, 1110 [Google Maps](https://www.google.com/maps/place/Ronald+D.+Schmeichel+Building+for+Entrepreneurship+and+Innovation/@43.007355,-81.2799882,16z/data=!4m6!3m5!1s0x882eefbcb4e0ae1d:0xe737f47c98e72df9!8m2!3d43.0073324!4d-81.2766097!16s%2Fg%2F11kbywxhs3!5m1!1e4?hl=en-US&entry=ttu&g_ep=EgoyMDI1MDcxNi4wIKXMDSoASAFQAw%3D%3D)
+Ronald D. Schmeichel Building for Entrepreneurship and Innovation — Room 1110 (main lobby level) [Google Maps](https://www.google.com/maps/place/Ronald+D.+Schmeichel+Building+for+Entrepreneurship+and+Innovation/@43.007355,-81.2799882,16z/data=!4m6!3m5!1s0x882eefbcb4e0ae1d:0xe737f47c98e72df9!8m2!3d43.0073324!4d-81.2766097!16s%2Fg%2F11kbywxhs3!5m1!1e4?hl=en-US&entry=ttu&g_ep=EgoyMDI1MDcxNi4wIKXMDSoASAFQAw%3D%3D).
 
-### Travel Arrangements
-The closest airport is London International Airport (YXU), which is about 15 minutes by car from the venue with connections to Toronto and Calgary. A good alternative is to fly directly to Toronto (YYZ) and we can arrange a shuttle bus to pick you up (approximately 2hr journey).
+# When you arrive
 
-### Hotel
-For accommodation, here are three recommendations:
-1.  **Ivy Spencer Leadership Center:** Closest to Campus - [Link](https://hotels.app.link/U0ye5VhvoWb)
-2.  **Hotel Metro:** Boutique, city center - [Link](https://hotels.app.link/3cct9MpvoWb)
-3.  **Park Hotel:** In town, close to campus - [Link](https://hotels.app.link/4CObwvdwoWb)
+The building's main entrance is accessible form the Western Rd ([pin on maps](https://maps.app.goo.gl/uF5HRyCDkfANkwor7)). When you arrive, look for signage at the entrance and in the lobby. Pick up your badge at the registration table. 
 
-If you want us to book a room for you, please email diedrichsenlab@gmail.com.
+Breakfast opens at 8:00 AM at the hospitality/refreshments station in the meeting room; hot and cold beverages, snacks, and lunch will also be served there.
+
+If you have difficulty finding the building or room 1110, or for any accessibility requests, please email diedrichsenlab@gmail.com.
+
+# Wi-Fi
+
+If your institution supports eduroam, you can connect across Western’s campus. Log in with your institutional username (yourID@yourinstitution.edu or .ca) and your usual password.
+
+# Presenting from your laptop
+
+The lectern supports HDMI; USB‑C is supported via adapter or a USB‑C‑to‑HDMI cable.
+Adapters and backup laptops are available on site; if you plan to use a house laptop, email your slide file to diedrichsenlab@gmail.com.
+Charging outlets are available at the lectern.
+
+# Ride arrangements to YYZ
+
+We will arrange three rides from London to YYZ. Please contact diedrichsenlab@gmail.com if you wish to join a ride. 
+
+1. **Tuesday Morning**: Leaves at **9am from downtown area**. Arrives at YYZ around
+2. **Tuesday Afternoon**: Leaves at **1:30pm from the venue**. Arrives at YYZ around  
+3. **Tuesday Evening**: Leaves at **6pm from the Venue**. Arrives at YYZ around
 
 ### Contacts
-For any questions about travel, hotel, or the program, please contact:
-* **Bassel Arafat:** diedrichsenlab@gmail.com
+For any questions about the meeting, travel, or the program, please contact:
+* **Ali Ghavampour:** diedrichsenlab@gmail.com
 * **Jörn Diedrichsen:** jdiedric@uwo.ca
 
 ---
