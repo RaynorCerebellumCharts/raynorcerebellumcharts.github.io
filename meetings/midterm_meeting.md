@@ -70,7 +70,7 @@ For any questions about the meeting, travel, or the program, please contact:
 | 15:50| **Next Steps 2:** <br>Other clinical studies (Autism, Spino-cerebellar Ataxia, ...)|**Opener:** **Ryan Muetzel and Matt Park** (~15 min)<br>**Open Discussion:** 30 min |
 | 16:40| **Break** | |
 | 17:00| **Meeting** | Scientific board with Project lead (Growth chart) |
-| 18:30| **Workshop Dinner** | *With all External Guests* |
+| 18:30| **Workshop Dinner**: <br>Garlics of London [Maps](https://maps.app.goo.gl/idCyRmoPFFkdSGCb9)<br> | *With all External Guests* |
 
 ### Tuesday, October 28th, 2025
 *Venue: Schmeichel Entrepreneurship and Innovation Centre, Room, 1110*
