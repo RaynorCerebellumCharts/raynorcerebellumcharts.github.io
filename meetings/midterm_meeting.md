@@ -52,12 +52,13 @@ For any questions about the meeting, travel, or the program, please contact:
 ## Program Schedule
 
 ### Monday, October 27th, 2025
-*Venue: Schmeichel Entrepreneurship and Innovation Centre, Room, 1110*
+*Venue: Ronald D. Schmeichel Building for Entrepreneurship and Innovation — Room 1110*
 
 | Time | Title | Speakers / Details|
 | :--- | :--- | :--- |
 | 8:00 | **Arrival & Breakfast** |  |
-| 9:00 | **Welcome by the VPR office** | **Alison Allan, AVpr**|
+| 9:00 | **Land Acknowledgement** | **Ravi Menon** |
+| 9:02 | **Welcome by the VPR office** | **Alison Allan, AVpr**|
 | 9:10 | **Overview: Cerebellar Growth Chart Project** | **Jörn Diedrichsen**|
 | 9:20 | New Isolation algorithm (15 min Talk, 5 min Q&A) | **Yao Li, Carlos Hernandez** |
 | 9:40 | Voxel-based measures (15 min Talk, 5 min Q&A) | **Yaping Wang** |
