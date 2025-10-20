@@ -95,5 +95,6 @@ For any questions about the meeting, travel, or the program, please contact:
 | 14:30| **Coffee Break** | *Time for informal interactions* |
 | 15:00| **Next Steps 4:** <br>Opportunities for studying the cerebellum with 7T imaging| **Opener:** **Menon, Baron, Diedrichsen** (15min)<br>**Open Discussion:** 45min|
 | 16:00| **Meeting** | Scientific board with Project lead (7T coil) |
+| 17:30| **Dinner** <br> Waldo’s Bistro at the Western Market [Maps](https://www.google.com/maps/place/Waldo's+On+King+Bistro+%26+Wine+Bar/@42.9823468,-81.2530872,17z/data=!3m1!4b1!4m6!3m5!1s0x882ef21da3892e7f:0xc9485cdc64948e93!8m2!3d42.9823468!4d-81.2505069!16s%2Fg%2F1td6h3jb!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D) | *Invited guests* |
 
 *Dinner to be arranged with guests staying until Wednesday.*
