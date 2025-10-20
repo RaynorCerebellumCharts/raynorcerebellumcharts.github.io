@@ -29,13 +29,18 @@ The lectern supports HDMI; USB‑C is supported via adapter or a USB‑C‑to‑
 Adapters and backup laptops are available on site; if you plan to use a house laptop, email your slide file to diedrichsenlab@gmail.com.
 Charging outlets are available at the lectern.
 
-# Ride arrangements to YYZ
+# Ride arrangements from and to YYZ
+We will arrange three rides from London to YYZ on Tuesday. Please contact diedrichsenlab@gmail.com if you wish to join a ride. 
 
-We will arrange three rides from London to YYZ. Please contact diedrichsenlab@gmail.com if you wish to join a ride. 
+1. **Tuesday Morning**: Leaves at **8:30am from downtown area**. Arrives at YYZ around 10:30am
+2. **Tuesday Afternoon**: Leaves at **1:30pm from the venue**. Arrives at YYZ around  3:30pm 
+3. **Tuesday Evening**: Leaves at **6pm from the Venue**. Arrives at YYZ around 8pm
 
-1. **Tuesday Morning**: Leaves at **9am from downtown area**. Arrives at YYZ around
-2. **Tuesday Afternoon**: Leaves at **1:30pm from the venue**. Arrives at YYZ around  
-3. **Tuesday Evening**: Leaves at **6pm from the Venue**. Arrives at YYZ around
+For rides from YYZ to London on Sunday and back on Wednesday: 
+[RobertQ Airbus](https://reservation.robertq.com/airbus/), which leaves about every 2 hours. 
+Alternatively you can also take a larger Bus. For connections, see [BudBud](https://www.busbud.com/)
+
+If you want advice on the best connection, please contact [diedrichsenlab@gmail.com](mailto:diedrichsenlab@gmail.com). 
 
 ### Contacts
 For any questions about the meeting, travel, or the program, please contact:
@@ -44,7 +49,7 @@ For any questions about the meeting, travel, or the program, please contact:
 
 ---
 
-## Preliminary Program Schedule
+## Program Schedule
 
 ### Monday, October 27th, 2025
 *Venue: Schmeichel Entrepreneurship and Innovation Centre, Room, 1110*
