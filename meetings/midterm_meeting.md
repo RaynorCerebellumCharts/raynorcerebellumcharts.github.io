@@ -86,9 +86,9 @@ For any questions about the meeting, travel, or the program, please contact:
 | 8:00 | **Arrival & Breakfast** |  |
 | 9:00 | **Next steps 3:**<br>Bringing growth chart models into the clinic| **Opener:** **Ryan Muetzel** (~15 min)<br>**Open Discussion:** 45 min |
 | 10:00| **Coffee Break** | |
-| 10:20| **Overview: 7T Coil Development** | **Anke Hennig, Ravi Menon** (30 min) |
-| 10:50| 7T coil development technical details | **Bei Zheng, Kyle Gilbert** |
-| 11:30| Deployment and availability (15 min) | **Anke Hennig, Ravi Menon** |
+| 10:20| **Overview: 7T Coil Development** | **Anke Hennig, Ravi Menon** (20 min) |
+| 10:40| 7T coil development technical details | **Bei Zheng, Kyle Gilbert** |
+| 11:10| Model for coil deployment and replication. Initial potential use cases. | **Anke Hennig, Ravi Menon** |
 | 11:40| **Discussion** | |
 | 12:00| **Lunch** | |
 | 13:00| **Site Visit** | 7T imaging facilities and demonstration of MR coil<br>*Potential: Marmoset facility* |
