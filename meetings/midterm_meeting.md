@@ -64,7 +64,7 @@ For any questions about the meeting, travel, or the program, please contact:
 | 9:40 | Voxel-based measures (15 min Talk, 5 min Q&A) | **Yaping Wang** |
 | 10:00| **Coffee Break** | |
 | 10:30| **Overview: Normative Model Development** | **Andre Marquand** |
-| 10:40| Cross-section normative modelling (15 min Talk, 5 min Q&A) | **Andre Marquand** |
+| 10:40| Clinical evaluation of voxel-wise normative models in cerebellar pathology (15 min Talk, 5 min Q&A) | **Andre Marquand** |
 | 11:00| Normative model with longitudinal data (15 min Talk, 5 min Q&A) | **Johanna Bayer** |
 | 11:20| **Overview: First Clinical Applications** | **Ryan Muetzel** |
 | 11:30| Predicting cerebellar growth from perinatal factors  (15 min Talk, 5 min Q&A) | **Bing Xu** |
